@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Team_Member_Roster_and_Ranking",
+      "source_sheet": "Team Member Roster and Ranking",
+      "columns": [
+        {
+          "column_name": "Team_Member",
+          "source_col": 0
+        },
+        {
+          "column_name": "Position",
+          "source_col": 1
+        },
+        {
+          "column_name": "Discipline_YN",
+          "source_col": 2
+        },
+        {
+          "column_name": "Planned_Hours_Per_Day",
+          "source_col": 3
+        }
+      ],
+      "row_count": 20
+    }
+  ]
+}

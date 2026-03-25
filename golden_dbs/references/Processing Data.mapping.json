@@ -1,0 +1,43 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Processing_Data",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "UPR",
+          "source_col": 1
+        },
+        {
+          "column_name": "Stage",
+          "source_col": 2
+        },
+        {
+          "column_name": "Day",
+          "source_col": 3
+        }
+      ],
+      "row_count": 45
+    },
+    {
+      "table_name": "Processing_Data_Time",
+      "source_sheet": "Sheet2",
+      "columns": [
+        {
+          "column_name": "Time",
+          "source_col": 0
+        },
+        {
+          "column_name": "UPR",
+          "source_col": 1
+        }
+      ],
+      "row_count": 35
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "raw_material_purchased_parts_and_tooling",
+      "source_sheet": "Raw Material,Purchased Parts an",
+      "columns": [
+        {
+          "column_name": "Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Class",
+          "source_col": 1
+        },
+        {
+          "column_name": "Unit_of_Measure",
+          "source_col": 2
+        },
+        {
+          "column_name": "Package_Quantity",
+          "source_col": 3
+        }
+      ],
+      "row_count": 20
+    }
+  ]
+}

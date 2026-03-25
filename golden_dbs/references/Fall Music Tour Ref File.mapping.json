@@ -1,0 +1,96 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Tour_Income",
+      "source_sheet": "Inc & Costs Tracked by Tour Mgr",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "City",
+          "source_col": 1
+        },
+        {
+          "column_name": "Country",
+          "source_col": 2
+        },
+        {
+          "column_name": "USD",
+          "source_col": 3
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_name": "Withholding_Taxes",
+      "source_sheet": "Inc & Costs Tracked by Tour Mgr",
+      "columns": [
+        {
+          "column_name": "Region",
+          "source_col": 0
+        },
+        {
+          "column_name": "USD",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Tour_Mgr_Costs",
+      "source_sheet": "Inc & Costs Tracked by Tour Mgr",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "USD",
+          "source_col": 2
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "Withholding_Tax_Assumptions",
+      "source_sheet": "Assump Withholding Tax",
+      "columns": [
+        {
+          "column_name": "Country",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Production_Co_Costs",
+      "source_sheet": "Costs Tracked by Productn Co",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "USD",
+          "source_col": 2
+        }
+      ],
+      "row_count": 10
+    }
+  ]
+}

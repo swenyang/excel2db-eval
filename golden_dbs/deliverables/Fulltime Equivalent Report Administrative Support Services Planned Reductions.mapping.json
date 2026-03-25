@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "FTE_Planned_Reductions",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Position_Title",
+          "source_col": 0
+        },
+        {
+          "column_name": "FTE_24_25",
+          "source_col": 1
+        },
+        {
+          "column_name": "FTE_25_26",
+          "source_col": 2
+        },
+        {
+          "column_name": "Change_Pct",
+          "source_col": 3
+        }
+      ],
+      "row_count": 14
+    }
+  ]
+}

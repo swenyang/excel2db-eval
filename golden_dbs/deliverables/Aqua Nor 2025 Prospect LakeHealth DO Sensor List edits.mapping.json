@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Exhibitors",
+      "source_sheet": "Exhibitors",
+      "columns": [
+        {
+          "column_name": "Exhibitor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Country",
+          "source_col": 1
+        },
+        {
+          "column_name": "Stand",
+          "source_col": 2
+        },
+        {
+          "column_name": "Type of Product",
+          "source_col": 3
+        },
+        {
+          "column_name": "Website",
+          "source_col": 4
+        }
+      ],
+      "row_count": 11
+    }
+  ]
+}

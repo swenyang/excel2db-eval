@@ -1,0 +1,24 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "vendor_rebates",
+      "source_sheet": "Vendor Rebates",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date_Received",
+          "source_col": 2
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

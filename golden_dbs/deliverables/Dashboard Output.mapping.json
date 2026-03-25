@@ -1,0 +1,159 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Sheet9",
+      "source_sheet": "Sheet9",
+      "columns": [
+        {
+          "column_name": "Operator",
+          "source_col": 0
+        },
+        {
+          "column_name": "Machine Line",
+          "source_col": 1
+        },
+        {
+          "column_name": "Shift",
+          "source_col": 2
+        },
+        {
+          "column_name": "Monday Output",
+          "source_col": 3
+        },
+        {
+          "column_name": "Tuesday Output",
+          "source_col": 4
+        },
+        {
+          "column_name": "Wednesday Output",
+          "source_col": 5
+        },
+        {
+          "column_name": "Thursday Output",
+          "source_col": 6
+        },
+        {
+          "column_name": "Friday Output",
+          "source_col": 7
+        },
+        {
+          "column_name": "Average Output",
+          "source_col": 8
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "Operator_Output_Data",
+      "source_sheet": "Operator Output Data ",
+      "columns": [
+        {
+          "column_name": "Week #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Operator",
+          "source_col": 1
+        },
+        {
+          "column_name": "Machine Line",
+          "source_col": 2
+        },
+        {
+          "column_name": "Shift",
+          "source_col": 3
+        },
+        {
+          "column_name": "Monday Output",
+          "source_col": 4
+        },
+        {
+          "column_name": "Tuesday Output",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wednesday Output",
+          "source_col": 6
+        },
+        {
+          "column_name": "Thursday Output",
+          "source_col": 7
+        },
+        {
+          "column_name": "Friday Output",
+          "source_col": 8
+        },
+        {
+          "column_name": "Average Output",
+          "source_col": 9
+        },
+        {
+          "column_name": "Total Output",
+          "source_col": 10
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "Operator_Performance_by_Week",
+      "source_sheet": "Dashboard",
+      "columns": [
+        {
+          "column_name": "Operator",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sum of Total Output",
+          "source_col": 1
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Shift_Weekly_Output_Performance",
+      "source_sheet": "Dashboard",
+      "columns": [
+        {
+          "column_name": "Shift",
+          "source_col": 0
+        },
+        {
+          "column_name": "Average of Average Output",
+          "source_col": 1
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Machine_Total_Output_by_Week",
+      "source_sheet": "Dashboard",
+      "columns": [
+        {
+          "column_name": "Machine",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sum of Total Output",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "YTD_Operator_Output_Leader_Board",
+      "source_sheet": "Dashboard",
+      "columns": [
+        {
+          "column_name": "Operator",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sum of Total Output",
+          "source_col": 1
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

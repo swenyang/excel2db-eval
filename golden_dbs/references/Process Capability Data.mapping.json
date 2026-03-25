@@ -1,0 +1,74 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "System_Errors",
+      "source_sheet": "System Errors",
+      "columns": [
+        {
+          "column_name": "Location ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "Workstation ID",
+          "source_col": 1
+        },
+        {
+          "column_name": "Start Time",
+          "source_col": 2
+        },
+        {
+          "column_name": "End Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Transactions Completed",
+          "source_col": 4
+        },
+        {
+          "column_name": "Rework Cases",
+          "source_col": 5
+        },
+        {
+          "column_name": "Error Rate",
+          "source_col": 6
+        }
+      ],
+      "row_count": 426
+    },
+    {
+      "table_name": "Failure_Rate",
+      "source_sheet": "Failure Rate",
+      "columns": [
+        {
+          "column_name": "Sample",
+          "source_col": 0
+        },
+        {
+          "column_name": "Units Processed",
+          "source_col": 1
+        },
+        {
+          "column_name": "Failures",
+          "source_col": 2
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_name": "Task_Duration",
+      "source_sheet": "Task Duration",
+      "columns": [
+        {
+          "column_name": "Sample",
+          "source_col": 0
+        },
+        {
+          "column_name": "Process Duration min",
+          "source_col": 1
+        }
+      ],
+      "row_count": 30
+    }
+  ]
+}

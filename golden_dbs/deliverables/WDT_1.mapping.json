@@ -1,0 +1,103 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "WDT",
+      "source_sheet": "WDT",
+      "columns": [
+        {
+          "column_name": "Department",
+          "source_col": 0
+        },
+        {
+          "column_name": "Team Member",
+          "source_col": 1
+        },
+        {
+          "column_name": "Website Redesign",
+          "source_col": 2
+        },
+        {
+          "column_name": "App Center Retirement",
+          "source_col": 3
+        },
+        {
+          "column_name": "IT Implementation",
+          "source_col": 4
+        },
+        {
+          "column_name": "Customer Onboarding Platform",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wrike Transition Initiative",
+          "source_col": 6
+        },
+        {
+          "column_name": "Adult Outpatient Pavilion Construction",
+          "source_col": 7
+        },
+        {
+          "column_name": "Annual Plan",
+          "source_col": 8
+        },
+        {
+          "column_name": "Pen Test Remediations",
+          "source_col": 9
+        },
+        {
+          "column_name": "Planned Giving Campaign",
+          "source_col": 10
+        },
+        {
+          "column_name": "Admin",
+          "source_col": 11
+        },
+        {
+          "column_name": "Total Hours by Team Member",
+          "source_col": 12
+        },
+        {
+          "column_name": "Targeted Hours by Team Member",
+          "source_col": 13
+        },
+        {
+          "column_name": "Allocation %",
+          "source_col": 14
+        },
+        {
+          "column_name": "Allocation % excluding Admin time",
+          "source_col": 15
+        },
+        {
+          "column_name": "Admin time as % of total hours",
+          "source_col": 16
+        }
+      ],
+      "row_count": 23
+    },
+    {
+      "table_name": "Stakeholder_Registry",
+      "source_sheet": "Stakeholder Registry",
+      "columns": [
+        {
+          "column_name": "Team Member",
+          "source_col": 0
+        },
+        {
+          "column_name": "Role",
+          "source_col": 1
+        },
+        {
+          "column_name": "Department",
+          "source_col": 2
+        },
+        {
+          "column_name": "Estimated Hours/Month",
+          "source_col": 3
+        }
+      ],
+      "row_count": 23
+    }
+  ]
+}

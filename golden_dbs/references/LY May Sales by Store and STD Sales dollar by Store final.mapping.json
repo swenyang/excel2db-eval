@@ -1,0 +1,104 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "P4_W1_2024",
+      "source_sheet": "P4 W1 2024",
+      "columns": [
+        {
+          "column_name": "Store ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "TY Sales",
+          "source_col": 1
+        },
+        {
+          "column_name": "LY Sales",
+          "source_col": 2
+        }
+      ],
+      "row_count": 67
+    },
+    {
+      "table_name": "P4_W2_2024",
+      "source_sheet": "P4 W2 2024",
+      "columns": [
+        {
+          "column_name": "Store ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "TY Sales",
+          "source_col": 1
+        },
+        {
+          "column_name": "LY Sales",
+          "source_col": 2
+        }
+      ],
+      "row_count": 67
+    },
+    {
+      "table_name": "P4_W3_2024",
+      "source_sheet": "P4 W3 2024",
+      "columns": [
+        {
+          "column_name": "Store ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "TY Sales",
+          "source_col": 1
+        },
+        {
+          "column_name": "LY Sales",
+          "source_col": 2
+        }
+      ],
+      "row_count": 67
+    },
+    {
+      "table_name": "P4_W4_2024",
+      "source_sheet": "P4 W4 2024",
+      "columns": [
+        {
+          "column_name": "Store ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "TY Sales",
+          "source_col": 1
+        },
+        {
+          "column_name": "LY Sales",
+          "source_col": 2
+        }
+      ],
+      "row_count": 67
+    },
+    {
+      "table_name": "STD_SALES",
+      "source_sheet": "STD SALES",
+      "columns": [
+        {
+          "column_name": "Store ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "TY Sales",
+          "source_col": 1
+        },
+        {
+          "column_name": "PL Sales",
+          "source_col": 2
+        },
+        {
+          "column_name": "LY Sales",
+          "source_col": 3
+        }
+      ],
+      "row_count": 67
+    }
+  ]
+}

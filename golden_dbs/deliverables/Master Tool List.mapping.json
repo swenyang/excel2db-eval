@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Master_Tool_List",
+      "source_sheet": "Master Tool List",
+      "columns": [
+        {
+          "column_name": "Equipment_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Manufacturer",
+          "source_col": 2
+        },
+        {
+          "column_name": "Manufacturer_Part_Number",
+          "source_col": 3
+        },
+        {
+          "column_name": "Quantity",
+          "source_col": 4
+        },
+        {
+          "column_name": "Cost_Each",
+          "source_col": 5
+        },
+        {
+          "column_name": "Cost_Total",
+          "source_col": 6
+        },
+        {
+          "column_name": "Page_Link_for_Purchase",
+          "source_col": 7
+        }
+      ],
+      "row_count": 20
+    }
+  ]
+}

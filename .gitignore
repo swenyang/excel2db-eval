@@ -1,0 +1,10 @@
+# Source files (downloaded from HuggingFace, not committed)
+source_files/
+
+# Generated scoring results
+eval_results.json
+eval_scores.csv
+
+# Python
+__pycache__/
+*.pyc

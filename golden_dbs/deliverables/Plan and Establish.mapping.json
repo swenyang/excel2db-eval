@@ -1,0 +1,85 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Work_Schedule",
+      "source_sheet": "Work Schedule",
+      "columns": [
+        {
+          "column_name": "Parameter",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "Production_Assignments",
+      "source_sheet": "Production Assignments",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Role",
+          "source_col": 1
+        },
+        {
+          "column_name": "Area",
+          "source_col": 2
+        }
+      ],
+      "row_count": 20
+    },
+    {
+      "table_name": "Production_Roles",
+      "source_sheet": "Production Assignments",
+      "columns": [
+        {
+          "column_name": "Role",
+          "source_col": 0
+        },
+        {
+          "column_name": "Task Description",
+          "source_col": 1
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_name": "Production_Sequences",
+      "source_sheet": "Production Sequences",
+      "columns": [
+        {
+          "column_name": "Dryer",
+          "source_col": 0
+        },
+        {
+          "column_name": "Time",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Equipment Area",
+          "source_col": 3
+        },
+        {
+          "column_name": "Role",
+          "source_col": 4
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 5
+        }
+      ],
+      "row_count": 28
+    }
+  ]
+}

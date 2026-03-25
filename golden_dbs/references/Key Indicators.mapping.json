@@ -1,0 +1,400 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "2025_Key_Indicators",
+      "source_sheet": "2025 Key Indicators",
+      "columns": [
+        {
+          "column_name": "PGY_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Resident_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Parotidectomy_ALL",
+          "source_col": 2
+        },
+        {
+          "column_name": "Neck_Dissection_ALL",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oral_Cavity_Resection",
+          "source_col": 4
+        },
+        {
+          "column_name": "Thyroid_Parathyroidectomy",
+          "source_col": 5
+        },
+        {
+          "column_name": "Tympanoplasty_ALL",
+          "source_col": 6
+        },
+        {
+          "column_name": "Mastoidectomy_ALL",
+          "source_col": 7
+        },
+        {
+          "column_name": "Stapendectomy_Ossiculoplasty",
+          "source_col": 8
+        },
+        {
+          "column_name": "Rhinoplasty_ALL",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mandible_Midface_Fractures",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flaps_Graft",
+          "source_col": 11
+        },
+        {
+          "column_name": "Airway_PEDS_and_Adult",
+          "source_col": 12
+        },
+        {
+          "column_name": "Congenital_Neck_Mass",
+          "source_col": 13
+        },
+        {
+          "column_name": "Ethmoidectomy",
+          "source_col": 14
+        },
+        {
+          "column_name": "Bronchoscopy",
+          "source_col": 15
+        },
+        {
+          "column_name": "Total_Key_Indicators",
+          "source_col": 16
+        },
+        {
+          "column_name": "Total_Case_Numbers",
+          "source_col": 17
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_name": "2024_Key_Indicators",
+      "source_sheet": "2024 Key Indicators",
+      "columns": [
+        {
+          "column_name": "PGY_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Resident_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Parotidectomy_ALL",
+          "source_col": 2
+        },
+        {
+          "column_name": "Neck_Dissection_ALL",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oral_Cavity_Resection",
+          "source_col": 4
+        },
+        {
+          "column_name": "Thyroid_Parathyroidectomy",
+          "source_col": 5
+        },
+        {
+          "column_name": "Tympanoplasty_ALL",
+          "source_col": 6
+        },
+        {
+          "column_name": "Mastoidectomy_ALL",
+          "source_col": 7
+        },
+        {
+          "column_name": "Stapendectomy_Ossiculoplasty",
+          "source_col": 8
+        },
+        {
+          "column_name": "Rhinoplasty_ALL",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mandible_Midface_Fractures",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flaps_Graft",
+          "source_col": 11
+        },
+        {
+          "column_name": "Airway_PEDS_and_Adult",
+          "source_col": 12
+        },
+        {
+          "column_name": "Congenital_Neck_Mass",
+          "source_col": 13
+        },
+        {
+          "column_name": "Ethmoidectomy",
+          "source_col": 14
+        },
+        {
+          "column_name": "Bronchoscopy",
+          "source_col": 15
+        },
+        {
+          "column_name": "Total_Key_Indicators",
+          "source_col": 16
+        },
+        {
+          "column_name": "Total_Case_Numbers",
+          "source_col": 17
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_name": "2023_Key_Indicators",
+      "source_sheet": "2023 Key Indicators",
+      "columns": [
+        {
+          "column_name": "PGY_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Resident_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Parotidectomy_ALL",
+          "source_col": 2
+        },
+        {
+          "column_name": "Neck_Dissection_ALL",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oral_Cavity_Resection",
+          "source_col": 4
+        },
+        {
+          "column_name": "Thyroid_Parathyroidectomy",
+          "source_col": 5
+        },
+        {
+          "column_name": "Tympanoplasty_ALL",
+          "source_col": 6
+        },
+        {
+          "column_name": "Mastoidectomy_ALL",
+          "source_col": 7
+        },
+        {
+          "column_name": "Stapendectomy_Ossiculoplasty",
+          "source_col": 8
+        },
+        {
+          "column_name": "Rhinoplasty_ALL",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mandible_Midface_Fractures",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flaps_Graft",
+          "source_col": 11
+        },
+        {
+          "column_name": "Airway_PEDS_and_Adult",
+          "source_col": 12
+        },
+        {
+          "column_name": "Congenital_Neck_Mass",
+          "source_col": 13
+        },
+        {
+          "column_name": "Ethmoidectomy",
+          "source_col": 14
+        },
+        {
+          "column_name": "Bronchoscopy",
+          "source_col": 15
+        },
+        {
+          "column_name": "Total_Key_Indicators",
+          "source_col": 16
+        },
+        {
+          "column_name": "Total_Case_Numbers",
+          "source_col": 17
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_name": "2022_Key_Indicators",
+      "source_sheet": "2022 Key Indicators",
+      "columns": [
+        {
+          "column_name": "PGY_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Resident_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Parotidectomy_ALL",
+          "source_col": 2
+        },
+        {
+          "column_name": "Neck_Dissection_ALL",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oral_Cavity_Resection",
+          "source_col": 4
+        },
+        {
+          "column_name": "Thyroid_Parathyroidectomy",
+          "source_col": 5
+        },
+        {
+          "column_name": "Tympanoplasty_ALL",
+          "source_col": 6
+        },
+        {
+          "column_name": "Mastoidectomy_ALL",
+          "source_col": 7
+        },
+        {
+          "column_name": "Stapendectomy_Ossiculoplasty",
+          "source_col": 8
+        },
+        {
+          "column_name": "Rhinoplasty_ALL",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mandible_Midface_Fractures",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flaps_Graft",
+          "source_col": 11
+        },
+        {
+          "column_name": "Airway_PEDS_and_Adult",
+          "source_col": 12
+        },
+        {
+          "column_name": "Congenital_Neck_Mass",
+          "source_col": 13
+        },
+        {
+          "column_name": "Ethmoidectomy",
+          "source_col": 14
+        },
+        {
+          "column_name": "Bronchoscopy",
+          "source_col": 15
+        },
+        {
+          "column_name": "Total_Key_Indicators",
+          "source_col": 16
+        },
+        {
+          "column_name": "Total_Case_Numbers",
+          "source_col": 17
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_name": "2021_Key_Indicators",
+      "source_sheet": "2021 Key Indicators",
+      "columns": [
+        {
+          "column_name": "PGY_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Resident_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Parotidectomy_ALL",
+          "source_col": 2
+        },
+        {
+          "column_name": "Neck_Dissection_ALL",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oral_Cavity_Resection",
+          "source_col": 4
+        },
+        {
+          "column_name": "Thyroid_Parathyroidectomy",
+          "source_col": 5
+        },
+        {
+          "column_name": "Tympanoplasty_ALL",
+          "source_col": 6
+        },
+        {
+          "column_name": "Mastoidectomy_ALL",
+          "source_col": 7
+        },
+        {
+          "column_name": "Stapendectomy_Ossiculoplasty",
+          "source_col": 8
+        },
+        {
+          "column_name": "Rhinoplasty_ALL",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mandible_Midface_Fractures",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flaps_Graft",
+          "source_col": 11
+        },
+        {
+          "column_name": "Airway_PEDS_and_Adult",
+          "source_col": 12
+        },
+        {
+          "column_name": "Congenital_Neck_Mass",
+          "source_col": 13
+        },
+        {
+          "column_name": "Ethmoidectomy",
+          "source_col": 14
+        },
+        {
+          "column_name": "Bronchoscopy",
+          "source_col": 15
+        },
+        {
+          "column_name": "Total_Key_Indicators",
+          "source_col": 16
+        },
+        {
+          "column_name": "Total_Case_Numbers",
+          "source_col": 17
+        }
+      ],
+      "row_count": 15
+    }
+  ]
+}

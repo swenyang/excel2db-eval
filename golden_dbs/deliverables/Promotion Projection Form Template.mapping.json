@@ -1,0 +1,80 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Promotion_Projection",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Promo Start",
+          "source_col": 0
+        },
+        {
+          "column_name": "Promo End",
+          "source_col": 1
+        },
+        {
+          "column_name": "Category",
+          "source_col": 2
+        },
+        {
+          "column_name": "Brand",
+          "source_col": 3
+        },
+        {
+          "column_name": "Item",
+          "source_col": 4
+        },
+        {
+          "column_name": "Regular Price",
+          "source_col": 5
+        },
+        {
+          "column_name": "Promo Price",
+          "source_col": 6
+        },
+        {
+          "column_name": "Promo Type",
+          "source_col": 7
+        },
+        {
+          "column_name": "Merchandising Notes",
+          "source_col": 8
+        },
+        {
+          "column_name": "Last Promo Start",
+          "source_col": 9
+        },
+        {
+          "column_name": "Last Promo End",
+          "source_col": 10
+        },
+        {
+          "column_name": "Last Promo Price",
+          "source_col": 11
+        },
+        {
+          "column_name": "Store",
+          "source_col": 12
+        },
+        {
+          "column_name": "Last Promo Units Sold",
+          "source_col": 13
+        },
+        {
+          "column_name": "Promo Projection Units",
+          "source_col": 14
+        },
+        {
+          "column_name": "Store Promo Projection Units",
+          "source_col": 15
+        },
+        {
+          "column_name": "Store Sign Off",
+          "source_col": 16
+        }
+      ],
+      "row_count": 0
+    }
+  ]
+}

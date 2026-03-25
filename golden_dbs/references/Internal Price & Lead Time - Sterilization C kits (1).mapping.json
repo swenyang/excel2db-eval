@@ -1,0 +1,24 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Sterilization_C_Kits_Pricing",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Quantity Range",
+          "source_col": 0
+        },
+        {
+          "column_name": "Price per kit (USD)",
+          "source_col": 1
+        },
+        {
+          "column_name": "Estimated Delivery Time",
+          "source_col": 2
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

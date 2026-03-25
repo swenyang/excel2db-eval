@@ -1,0 +1,194 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Account_1_Bluehaven_Collective",
+      "source_sheet": "Account 1 Bluehaven Collective",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 253
+    },
+    {
+      "table_name": "Account_2_Bluehaven_Collective",
+      "source_sheet": "Account 2 Bluehaven Collective",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 58
+    },
+    {
+      "table_name": "Account_3_Silverleaf_Partners",
+      "source_sheet": "Account 3 Silverleaf Partners",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 91
+    },
+    {
+      "table_name": "Account_4_Owen_Tavery",
+      "source_sheet": "Account 4 Owen Tavery",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 197
+    },
+    {
+      "table_name": "Account_5_Owen_Tavery",
+      "source_sheet": "Account 5 Owen Tavery",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 277
+    },
+    {
+      "table_name": "Account_6_Victor_Curcun",
+      "source_sheet": "Account 6 Victor Curcun",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 394
+    },
+    {
+      "table_name": "Account_7_Victor_Curcun",
+      "source_sheet": "Account 7 Victor Curcun",
+      "columns": [
+        {
+          "column_name": "Transaction_Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Transaction_Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit_Credit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transaction_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        }
+      ],
+      "row_count": 78
+    }
+  ]
+}

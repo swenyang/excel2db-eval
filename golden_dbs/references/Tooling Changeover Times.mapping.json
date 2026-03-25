@@ -1,0 +1,24 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Tooling_Changeover_Times",
+      "source_sheet": "Tooling Change-Over Times",
+      "columns": [
+        {
+          "column_name": "Tool_Pack",
+          "source_col": 0
+        },
+        {
+          "column_name": "Changeover_In_Mins",
+          "source_col": 1
+        },
+        {
+          "column_name": "Changeover_Out_Mins",
+          "source_col": 2
+        }
+      ],
+      "row_count": 7
+    }
+  ]
+}

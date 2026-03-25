@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Summary",
+      "source_sheet": "Summary",
+      "columns": [
+        {
+          "column_name": "UPC",
+          "source_col": 0
+        },
+        {
+          "column_name": "Current_Week_Inv_Stores",
+          "source_col": 1
+        },
+        {
+          "column_name": "Daily_Inv_Sold_In_Last_4_Wks",
+          "source_col": 2
+        },
+        {
+          "column_name": "Weekly_Unit_Rate_of_Sale",
+          "source_col": 3
+        },
+        {
+          "column_name": "WOS",
+          "source_col": 4
+        },
+        {
+          "column_name": "Number_of_Stores",
+          "source_col": 5
+        },
+        {
+          "column_name": "Count_of_OOS_Stores",
+          "source_col": 6
+        },
+        {
+          "column_name": "Pct_OOS",
+          "source_col": 7
+        }
+      ],
+      "row_count": 5
+    }
+  ]
+}

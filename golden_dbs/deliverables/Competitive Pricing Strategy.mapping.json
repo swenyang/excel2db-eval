@@ -1,0 +1,149 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "pricing_summary_averages",
+      "source_sheet": "Summary",
+      "columns": [
+        {
+          "column_name": "Size Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Current Price per Ounce",
+          "source_col": 1
+        },
+        {
+          "column_name": "Competitor Price per Ounce",
+          "source_col": 2
+        },
+        {
+          "column_name": "New Price per Ounce",
+          "source_col": 3
+        },
+        {
+          "column_name": "Pct MSRP Increase",
+          "source_col": 4
+        },
+        {
+          "column_name": "Pct Var New MSRP to Competitor",
+          "source_col": 5
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "pricing_by_sku",
+      "source_sheet": "Summary",
+      "columns": [
+        {
+          "column_name": "Gender",
+          "source_col": 0
+        },
+        {
+          "column_name": "Fragrance Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Concentration",
+          "source_col": 2
+        },
+        {
+          "column_name": "Size",
+          "source_col": 3
+        },
+        {
+          "column_name": "COGS",
+          "source_col": 4
+        },
+        {
+          "column_name": "Current MSRP",
+          "source_col": 5
+        },
+        {
+          "column_name": "Current Price per Ounce",
+          "source_col": 6
+        },
+        {
+          "column_name": "New Recommended MSRP",
+          "source_col": 7
+        },
+        {
+          "column_name": "New Price per Ounce",
+          "source_col": 8
+        },
+        {
+          "column_name": "Pct MSRP Increase",
+          "source_col": 9
+        },
+        {
+          "column_name": "Competitor Avg",
+          "source_col": 10
+        },
+        {
+          "column_name": "New Price vs Competitor",
+          "source_col": 11
+        },
+        {
+          "column_name": "NEW COGS Pct MSRP",
+          "source_col": 12
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "competitor_avg_price_by_size",
+      "source_sheet": "Mens Competitor Set",
+      "columns": [
+        {
+          "column_name": "Size Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Concentration",
+          "source_col": 1
+        },
+        {
+          "column_name": "Average Price per oz",
+          "source_col": 2
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "mens_competitor_set",
+      "source_sheet": "Mens Competitor Set",
+      "columns": [
+        {
+          "column_name": "Brand",
+          "source_col": 0
+        },
+        {
+          "column_name": "Fragrance Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Concentration",
+          "source_col": 2
+        },
+        {
+          "column_name": "Size",
+          "source_col": 3
+        },
+        {
+          "column_name": "Size 2",
+          "source_col": 4
+        },
+        {
+          "column_name": "MSRP",
+          "source_col": 5
+        },
+        {
+          "column_name": "Price per oz",
+          "source_col": 6
+        }
+      ],
+      "row_count": 61
+    }
+  ]
+}

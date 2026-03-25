@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Misc_Accruals_2410",
+      "source_sheet": "Misc Accruals #2410",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Balance",
+          "source_col": 2
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

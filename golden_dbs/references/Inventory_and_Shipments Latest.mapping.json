@@ -1,0 +1,62 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Current_Inventory",
+      "source_sheet": "Current Inventory",
+      "columns": [
+        {
+          "column_name": "Product_SKU",
+          "source_col": 0
+        },
+        {
+          "column_name": "In_Stock_Cases",
+          "source_col": 1
+        },
+        {
+          "column_name": "Rate_of_Sale_Cases_Per_Day",
+          "source_col": 2
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Incoming_Shipments",
+      "source_sheet": "Incoming Shipments",
+      "columns": [
+        {
+          "column_name": "Product_SKU",
+          "source_col": 0
+        },
+        {
+          "column_name": "Delivery_Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "Number_of_Pallets",
+          "source_col": 2
+        },
+        {
+          "column_name": "Number_of_Cases_Left",
+          "source_col": 3
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Ratio",
+      "source_sheet": "Ratio",
+      "columns": [
+        {
+          "column_name": "Cases",
+          "source_col": 0
+        },
+        {
+          "column_name": "Pallet",
+          "source_col": 1
+        }
+      ],
+      "row_count": 1
+    }
+  ]
+}

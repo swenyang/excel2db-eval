@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Pro_Forma",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Tier",
+          "source_col": 0
+        },
+        {
+          "column_name": "Product",
+          "source_col": 1
+        },
+        {
+          "column_name": "Quantity",
+          "source_col": 2
+        },
+        {
+          "column_name": "Marketplace_Price",
+          "source_col": 3
+        },
+        {
+          "column_name": "Cost",
+          "source_col": 4
+        },
+        {
+          "column_name": "Unit_Margin",
+          "source_col": 5
+        },
+        {
+          "column_name": "Margin_Pct",
+          "source_col": 6
+        },
+        {
+          "column_name": "Gross_Margin_Total",
+          "source_col": 7
+        }
+      ],
+      "row_count": 8
+    }
+  ]
+}

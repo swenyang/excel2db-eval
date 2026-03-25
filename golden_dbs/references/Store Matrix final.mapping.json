@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Store_Matrix",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Store_ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "Active_Status",
+          "source_col": 1
+        },
+        {
+          "column_name": "Region",
+          "source_col": 2
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 3
+        }
+      ],
+      "row_count": 69
+    }
+  ]
+}

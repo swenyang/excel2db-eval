@@ -1,0 +1,266 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Evaluation",
+      "source_sheet": "EVALUATION",
+      "columns": [
+        {
+          "column_name": "Employee Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "CPH avg over 52 weeks",
+          "source_col": 1
+        },
+        {
+          "column_name": "Attendance Points",
+          "source_col": 2
+        },
+        {
+          "column_name": "Evaluation",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "Attendance_Data",
+      "source_sheet": "ATTENDANCE_DATA",
+      "columns": [
+        {
+          "column_name": "Employee Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Attendance Points",
+          "source_col": 1
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "CPH_Data",
+      "source_sheet": "CPH_DATA",
+      "columns": [
+        {
+          "column_name": "Employee Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Week_1",
+          "source_col": 1
+        },
+        {
+          "column_name": "Week_2",
+          "source_col": 2
+        },
+        {
+          "column_name": "Week_3",
+          "source_col": 3
+        },
+        {
+          "column_name": "Week_4",
+          "source_col": 4
+        },
+        {
+          "column_name": "Week_5",
+          "source_col": 5
+        },
+        {
+          "column_name": "Week_6",
+          "source_col": 6
+        },
+        {
+          "column_name": "Week_7",
+          "source_col": 7
+        },
+        {
+          "column_name": "Week_8",
+          "source_col": 8
+        },
+        {
+          "column_name": "Week_9",
+          "source_col": 9
+        },
+        {
+          "column_name": "Week_10",
+          "source_col": 10
+        },
+        {
+          "column_name": "Week_11",
+          "source_col": 11
+        },
+        {
+          "column_name": "Week_12",
+          "source_col": 12
+        },
+        {
+          "column_name": "Week_13",
+          "source_col": 13
+        },
+        {
+          "column_name": "Week_14",
+          "source_col": 14
+        },
+        {
+          "column_name": "Week_15",
+          "source_col": 15
+        },
+        {
+          "column_name": "Week_16",
+          "source_col": 16
+        },
+        {
+          "column_name": "Week_17",
+          "source_col": 17
+        },
+        {
+          "column_name": "Week_18",
+          "source_col": 18
+        },
+        {
+          "column_name": "Week_19",
+          "source_col": 19
+        },
+        {
+          "column_name": "Week_20",
+          "source_col": 20
+        },
+        {
+          "column_name": "Week_21",
+          "source_col": 21
+        },
+        {
+          "column_name": "Week_22",
+          "source_col": 22
+        },
+        {
+          "column_name": "Week_23",
+          "source_col": 23
+        },
+        {
+          "column_name": "Week_24",
+          "source_col": 24
+        },
+        {
+          "column_name": "Week_25",
+          "source_col": 25
+        },
+        {
+          "column_name": "Week_26",
+          "source_col": 26
+        },
+        {
+          "column_name": "Week_27",
+          "source_col": 27
+        },
+        {
+          "column_name": "Week_28",
+          "source_col": 28
+        },
+        {
+          "column_name": "Week_29",
+          "source_col": 29
+        },
+        {
+          "column_name": "Week_30",
+          "source_col": 30
+        },
+        {
+          "column_name": "Week_31",
+          "source_col": 31
+        },
+        {
+          "column_name": "Week_32",
+          "source_col": 32
+        },
+        {
+          "column_name": "Week_33",
+          "source_col": 33
+        },
+        {
+          "column_name": "Week_34",
+          "source_col": 34
+        },
+        {
+          "column_name": "Week_35",
+          "source_col": 35
+        },
+        {
+          "column_name": "Week_36",
+          "source_col": 36
+        },
+        {
+          "column_name": "Week_37",
+          "source_col": 37
+        },
+        {
+          "column_name": "Week_38",
+          "source_col": 38
+        },
+        {
+          "column_name": "Week_39",
+          "source_col": 39
+        },
+        {
+          "column_name": "Week_40",
+          "source_col": 40
+        },
+        {
+          "column_name": "Week_41",
+          "source_col": 41
+        },
+        {
+          "column_name": "Week_42",
+          "source_col": 42
+        },
+        {
+          "column_name": "Week_43",
+          "source_col": 43
+        },
+        {
+          "column_name": "Week_44",
+          "source_col": 44
+        },
+        {
+          "column_name": "Week_45",
+          "source_col": 45
+        },
+        {
+          "column_name": "Week_46",
+          "source_col": 46
+        },
+        {
+          "column_name": "Week_47",
+          "source_col": 47
+        },
+        {
+          "column_name": "Week_48",
+          "source_col": 48
+        },
+        {
+          "column_name": "Week_49",
+          "source_col": 49
+        },
+        {
+          "column_name": "Week_50",
+          "source_col": 50
+        },
+        {
+          "column_name": "Week_51",
+          "source_col": 51
+        },
+        {
+          "column_name": "Week_52",
+          "source_col": 52
+        }
+      ],
+      "row_count": 13
+    }
+  ]
+}

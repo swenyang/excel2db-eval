@@ -1,0 +1,48 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "makeup_sales",
+      "source_sheet": "DATA-XR MU 2023",
+      "columns": [
+        {
+          "column_name": "Brand",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sub_Brand",
+          "source_col": 1
+        },
+        {
+          "column_name": "Function",
+          "source_col": 2
+        },
+        {
+          "column_name": "Material",
+          "source_col": 3
+        },
+        {
+          "column_name": "Material_Status",
+          "source_col": 4
+        },
+        {
+          "column_name": "XR_Sales_Dollars_FY_2023_in_000s",
+          "source_col": 5
+        },
+        {
+          "column_name": "XR_Sales_Dollars_FY_2022_LY_in_000s",
+          "source_col": 6
+        },
+        {
+          "column_name": "Sales_Dollars_YTD_Pct_Chg",
+          "source_col": 7
+        },
+        {
+          "column_name": "Sales_Dollars_YTD_Dollar_Chg",
+          "source_col": 8
+        }
+      ],
+      "row_count": 1057
+    }
+  ]
+}

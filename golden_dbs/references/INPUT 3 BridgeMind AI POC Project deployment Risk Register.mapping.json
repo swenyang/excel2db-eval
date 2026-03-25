@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Risk_Register",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Title",
+          "source_col": 1
+        },
+        {
+          "column_name": "Details",
+          "source_col": 2
+        },
+        {
+          "column_name": "Likelihood",
+          "source_col": 3
+        },
+        {
+          "column_name": "Impact",
+          "source_col": 4
+        },
+        {
+          "column_name": "Mitigation",
+          "source_col": 5
+        },
+        {
+          "column_name": "Likelihood (after mitigation)",
+          "source_col": 6
+        },
+        {
+          "column_name": "Impact (after mitigation)",
+          "source_col": 7
+        }
+      ],
+      "row_count": 4
+    }
+  ]
+}

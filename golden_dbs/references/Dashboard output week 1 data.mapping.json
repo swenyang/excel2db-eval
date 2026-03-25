@@ -1,0 +1,48 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Dashboard_Output_Week_1",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Week #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Operator",
+          "source_col": 1
+        },
+        {
+          "column_name": "Machine Line",
+          "source_col": 2
+        },
+        {
+          "column_name": "Shift",
+          "source_col": 3
+        },
+        {
+          "column_name": "Monday Output",
+          "source_col": 4
+        },
+        {
+          "column_name": "Tuesday Output",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wednesday Output",
+          "source_col": 6
+        },
+        {
+          "column_name": "Thursday Output",
+          "source_col": 7
+        },
+        {
+          "column_name": "Friday Output",
+          "source_col": 8
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

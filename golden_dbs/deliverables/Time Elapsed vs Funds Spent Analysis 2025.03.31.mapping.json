@@ -1,0 +1,91 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Final_Analysis",
+      "source_sheet": "Final Analysis",
+      "columns": [
+        {
+          "column_name": "Recipient_Award_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Start_Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "End_Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Pct_Time_Elapsed",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total_Awarded_Amt",
+          "source_col": 4
+        },
+        {
+          "column_name": "FFR_Expenditure_Amt",
+          "source_col": 5
+        },
+        {
+          "column_name": "Pct_Funds_Spent",
+          "source_col": 6
+        },
+        {
+          "column_name": "Fast_Spending_Rate_Analysis",
+          "source_col": 7
+        },
+        {
+          "column_name": "Slow_Spending_Rate_Analysis",
+          "source_col": 8
+        }
+      ],
+      "row_count": 76
+    },
+    {
+      "table_name": "Award_Status_Analysis",
+      "source_sheet": "Award Status - Analysis",
+      "columns": [
+        {
+          "column_name": "Recipient_Award_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Start_Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "End_Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Pct_Time_Elapsed",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total_Awarded_Amt",
+          "source_col": 4
+        },
+        {
+          "column_name": "FFR_Expenditure_Amt",
+          "source_col": 5
+        },
+        {
+          "column_name": "Pct_Funds_Spent",
+          "source_col": 6
+        },
+        {
+          "column_name": "Fast_Spending_Rate_Analysis",
+          "source_col": 7
+        },
+        {
+          "column_name": "Slow_Spending_Rate_Analysis",
+          "source_col": 8
+        }
+      ],
+      "row_count": 2458
+    }
+  ]
+}

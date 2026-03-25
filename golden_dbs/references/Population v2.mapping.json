@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Population",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "No",
+          "source_col": 0
+        },
+        {
+          "column_name": "Division",
+          "source_col": 1
+        },
+        {
+          "column_name": "Sub-Division",
+          "source_col": 2
+        },
+        {
+          "column_name": "Country",
+          "source_col": 3
+        },
+        {
+          "column_name": "Legal Entity",
+          "source_col": 4
+        },
+        {
+          "column_name": "KRIs",
+          "source_col": 5
+        },
+        {
+          "column_name": "Q3 2024 KRI",
+          "source_col": 6
+        },
+        {
+          "column_name": "Q2 2024 KRI",
+          "source_col": 7
+        }
+      ],
+      "row_count": 1516
+    }
+  ]
+}

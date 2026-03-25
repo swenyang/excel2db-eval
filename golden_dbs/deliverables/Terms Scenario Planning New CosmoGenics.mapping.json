@@ -1,0 +1,40 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Deliverable",
+      "source_sheet": "Deliverable",
+      "columns": [
+        {
+          "column_name": "Scenario",
+          "source_col": 0
+        },
+        {
+          "column_name": "Metric",
+          "source_col": 1
+        },
+        {
+          "column_name": "Q1",
+          "source_col": 2
+        },
+        {
+          "column_name": "Q2",
+          "source_col": 3
+        },
+        {
+          "column_name": "Q3",
+          "source_col": 4
+        },
+        {
+          "column_name": "Q4",
+          "source_col": 5
+        },
+        {
+          "column_name": "Annual_2026",
+          "source_col": 6
+        }
+      ],
+      "row_count": 24
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "DATA_XR_MU_2023",
+      "source_sheet": "DATA-XR MU 2023",
+      "columns": [
+        {
+          "column_name": "Brand",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sub Brand",
+          "source_col": 1
+        },
+        {
+          "column_name": "Function",
+          "source_col": 2
+        },
+        {
+          "column_name": "Material",
+          "source_col": 3
+        },
+        {
+          "column_name": "Material Status",
+          "source_col": 4
+        },
+        {
+          "column_name": "XR Sales Dollars FY 2023 (in 000s)",
+          "source_col": 5
+        },
+        {
+          "column_name": "XR Sales Dollars FY 2022 LY (in 000s)",
+          "source_col": 6
+        },
+        {
+          "column_name": "Sales Dollars YTD % Chg",
+          "source_col": 7
+        },
+        {
+          "column_name": "Sales Dollars YTD $Chg",
+          "source_col": 8
+        }
+      ],
+      "row_count": 1057
+    },
+    {
+      "table_name": "Top_Line_Overall_Business",
+      "source_sheet": "TOP LINE ANALYSIS",
+      "columns": [
+        {
+          "column_name": "Sales Dollars TY 2023 (in 000s)",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sales Dollars LY 2022 (in 000s)",
+          "source_col": 1
+        },
+        {
+          "column_name": "Sales Dollars % Chg",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sales Dollars $Chg",
+          "source_col": 3
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Top_Line_Discontinued_SKUs",
+      "source_sheet": "TOP LINE ANALYSIS",
+      "columns": [
+        {
+          "column_name": "Total Sales $ of Ongoing SKUs",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total Sales $ of Discontinuing SKUs",
+          "source_col": 1
+        },
+        {
+          "column_name": "% of Sales (Discos)",
+          "source_col": 2
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Top_Line_Volume_Analysis",
+      "source_sheet": "TOP LINE ANALYSIS",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Function",
+          "source_col": 1
+        },
+        {
+          "column_name": "XR Sales Dollars FY 2023 (in 000s)",
+          "source_col": 2
+        },
+        {
+          "column_name": "XR Sales Dollars FY 2022 LY (in 000s)",
+          "source_col": 3
+        },
+        {
+          "column_name": "Sales Dollars YTD $Chg",
+          "source_col": 4
+        },
+        {
+          "column_name": "% CHG TY vs LY",
+          "source_col": 5
+        },
+        {
+          "column_name": "% TO TOTAL BUSINESS YTD",
+          "source_col": 6
+        },
+        {
+          "column_name": "% TO TOTAL BUSINESS LY YTD",
+          "source_col": 7
+        },
+        {
+          "column_name": "$ DISCO",
+          "source_col": 8
+        },
+        {
+          "column_name": "% DISCO",
+          "source_col": 9
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

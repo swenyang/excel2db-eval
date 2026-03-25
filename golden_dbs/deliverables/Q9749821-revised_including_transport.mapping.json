@@ -1,0 +1,82 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "quotation_items",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Line_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Quantity",
+          "source_col": 1
+        },
+        {
+          "column_name": "Description",
+          "source_col": 2
+        },
+        {
+          "column_name": "Lead_Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Unit_Price_USD",
+          "source_col": 4
+        },
+        {
+          "column_name": "Total_USD",
+          "source_col": 5
+        },
+        {
+          "column_name": "Item_Remarks",
+          "source_col": 6
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "quotation_terms",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Term",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "transport_options",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Option",
+          "source_col": 0
+        },
+        {
+          "column_name": "Cost_USD",
+          "source_col": 1
+        },
+        {
+          "column_name": "Grand_Total_USD",
+          "source_col": 2
+        },
+        {
+          "column_name": "Transit_Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Remarks",
+          "source_col": 4
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

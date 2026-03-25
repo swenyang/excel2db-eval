@@ -1,0 +1,64 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Incident_Report",
+      "source_sheet": "Sheet4",
+      "columns": [
+        {
+          "column_name": "Part Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "CAGE Code",
+          "source_col": 1
+        },
+        {
+          "column_name": "Manufacturer",
+          "source_col": 2
+        },
+        {
+          "column_name": "Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Serial Number",
+          "source_col": 4
+        },
+        {
+          "column_name": "QTY",
+          "source_col": 5
+        },
+        {
+          "column_name": "Incident Type",
+          "source_col": 6
+        },
+        {
+          "column_name": "Incident Date",
+          "source_col": 7
+        },
+        {
+          "column_name": "Incident Status",
+          "source_col": 8
+        },
+        {
+          "column_name": "Incident Closed Date",
+          "source_col": 9
+        },
+        {
+          "column_name": "Duration (days)",
+          "source_col": 10
+        },
+        {
+          "column_name": "Incident Description",
+          "source_col": 11
+        },
+        {
+          "column_name": "Resolution Cost",
+          "source_col": 12
+        }
+      ],
+      "row_count": 50
+    }
+  ]
+}

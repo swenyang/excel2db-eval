@@ -1,0 +1,96 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "closed_rental_agreements",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Rental Agreement no.",
+          "source_col": 0
+        },
+        {
+          "column_name": "Customer Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Return Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Return Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Pick-up Date",
+          "source_col": 4
+        },
+        {
+          "column_name": "Pick-up Time",
+          "source_col": 5
+        },
+        {
+          "column_name": "Total days",
+          "source_col": 6
+        },
+        {
+          "column_name": "Vehicle category",
+          "source_col": 7
+        },
+        {
+          "column_name": "Vehicle Make",
+          "source_col": 8
+        },
+        {
+          "column_name": "Vehicle Model",
+          "source_col": 9
+        },
+        {
+          "column_name": "License plate",
+          "source_col": 10
+        },
+        {
+          "column_name": "Mileage Out",
+          "source_col": 11
+        },
+        {
+          "column_name": "Mileage In",
+          "source_col": 12
+        },
+        {
+          "column_name": "Mileage",
+          "source_col": 13
+        },
+        {
+          "column_name": "Fuel In",
+          "source_col": 14
+        },
+        {
+          "column_name": "Source",
+          "source_col": 15
+        },
+        {
+          "column_name": "Rental amount $",
+          "source_col": 16
+        },
+        {
+          "column_name": "Extras",
+          "source_col": 17
+        },
+        {
+          "column_name": "Extras in $",
+          "source_col": 18
+        },
+        {
+          "column_name": "Total Revenue $",
+          "source_col": 19
+        },
+        {
+          "column_name": "Payment Method",
+          "source_col": 20
+        }
+      ],
+      "row_count": 25
+    }
+  ]
+}

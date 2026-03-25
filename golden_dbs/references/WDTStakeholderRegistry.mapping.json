@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Employees",
+      "source_sheet": "Employees",
+      "columns": [
+        {
+          "column_name": "Team Member",
+          "source_col": 0
+        },
+        {
+          "column_name": "Role",
+          "source_col": 1
+        },
+        {
+          "column_name": "Department",
+          "source_col": 2
+        },
+        {
+          "column_name": "FT/PT",
+          "source_col": 3
+        }
+      ],
+      "row_count": 23
+    }
+  ]
+}

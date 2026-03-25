@@ -1,0 +1,56 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "PO_Log",
+      "source_sheet": "PO Log",
+      "columns": [
+        {
+          "column_name": "PO_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Account",
+          "source_col": 1
+        },
+        {
+          "column_name": "Ship_Start",
+          "source_col": 2
+        },
+        {
+          "column_name": "Cancel_Date",
+          "source_col": 3
+        },
+        {
+          "column_name": "Actual_Ship_Date",
+          "source_col": 4
+        },
+        {
+          "column_name": "Order_Value_Cost",
+          "source_col": 5
+        },
+        {
+          "column_name": "Order_Value_Retail",
+          "source_col": 6
+        },
+        {
+          "column_name": "Status",
+          "source_col": 7
+        },
+        {
+          "column_name": "Shipped_Value_Cost",
+          "source_col": 8
+        },
+        {
+          "column_name": "Shipped_Value_Retail",
+          "source_col": 9
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 10
+        }
+      ],
+      "row_count": 66
+    }
+  ]
+}

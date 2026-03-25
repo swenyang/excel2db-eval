@@ -1,0 +1,67 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Sample",
+      "source_sheet": "Sample",
+      "columns": [
+        {
+          "column_name": "No",
+          "source_col": 0
+        },
+        {
+          "column_name": "Division",
+          "source_col": 1
+        },
+        {
+          "column_name": "Sub_Division",
+          "source_col": 2
+        },
+        {
+          "column_name": "Country",
+          "source_col": 3
+        },
+        {
+          "column_name": "Legal_Entity",
+          "source_col": 4
+        },
+        {
+          "column_name": "KRIs",
+          "source_col": 5
+        },
+        {
+          "column_name": "Q3_2024_KRI",
+          "source_col": 6
+        },
+        {
+          "column_name": "Q2_2024_KRI",
+          "source_col": 7
+        },
+        {
+          "column_name": "Variance",
+          "source_col": 8
+        },
+        {
+          "column_name": "Sample_Selected",
+          "source_col": 9
+        }
+      ],
+      "row_count": 1516
+    },
+    {
+      "table_name": "Sample_Size",
+      "source_sheet": "Sample Size",
+      "columns": [
+        {
+          "column_name": "Parameter",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Quotation_Line_Items",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Line Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Quantity",
+          "source_col": 1
+        },
+        {
+          "column_name": "Description",
+          "source_col": 2
+        },
+        {
+          "column_name": "Lead Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Unit Price USD",
+          "source_col": 4
+        },
+        {
+          "column_name": "Total USD",
+          "source_col": 5
+        },
+        {
+          "column_name": "Item Remarks",
+          "source_col": 6
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Quotation_Details",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Field",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 8
+    }
+  ]
+}

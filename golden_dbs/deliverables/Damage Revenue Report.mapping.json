@@ -1,0 +1,56 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "damage_revenue",
+      "source_sheet": "Report",
+      "columns": [
+        {
+          "column_name": "Vehicle_Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total_Number_of_Damages",
+          "source_col": 1
+        },
+        {
+          "column_name": "Number_of_Repairs",
+          "source_col": 2
+        },
+        {
+          "column_name": "Repairs_Amount_Charged",
+          "source_col": 3
+        },
+        {
+          "column_name": "Number_of_Replacements",
+          "source_col": 4
+        },
+        {
+          "column_name": "Replacements_Amount_Charged",
+          "source_col": 5
+        },
+        {
+          "column_name": "Number_of_Dents",
+          "source_col": 6
+        },
+        {
+          "column_name": "Dents_Amount_Charged",
+          "source_col": 7
+        },
+        {
+          "column_name": "Number_of_Scratches",
+          "source_col": 8
+        },
+        {
+          "column_name": "Scratches_Amount_Charged",
+          "source_col": 9
+        },
+        {
+          "column_name": "Total_Damage_Revenue",
+          "source_col": 10
+        }
+      ],
+      "row_count": 8
+    }
+  ]
+}

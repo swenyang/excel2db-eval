@@ -1,0 +1,100 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Assumptions",
+      "source_sheet": "Assumptions",
+      "columns": [
+        {
+          "column_name": "Parameter",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Volume_Projections",
+      "source_sheet": "Assumptions",
+      "columns": [
+        {
+          "column_name": "Year",
+          "source_col": 0
+        },
+        {
+          "column_name": "Volume",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Vendor_Quotations",
+      "source_sheet": "NPV Autolantic/Vendocrat/Solimoto",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Parameter",
+          "source_col": 1
+        },
+        {
+          "column_name": "Value_INR",
+          "source_col": 2
+        }
+      ],
+      "row_count": 26
+    },
+    {
+      "table_name": "NPV_Calculations",
+      "source_sheet": "NPV Autolantic/Vendocrat/Solimoto",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Variant",
+          "source_col": 1
+        },
+        {
+          "column_name": "Year",
+          "source_col": 2
+        },
+        {
+          "column_name": "Net_Cashflow_INR",
+          "source_col": 3
+        },
+        {
+          "column_name": "Present_Value_INR",
+          "source_col": 4
+        }
+      ],
+      "row_count": 24
+    },
+    {
+      "table_name": "NPV_Summary",
+      "source_sheet": "NPV Summary",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Top_Variant_NPV_Million_INR",
+          "source_col": 1
+        },
+        {
+          "column_name": "Base_Variant_NPV_Million_INR",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

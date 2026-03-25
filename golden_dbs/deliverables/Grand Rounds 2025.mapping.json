@@ -1,0 +1,43 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Schedule",
+      "source_sheet": "2025 Grand Rounds Schedule",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Time",
+          "source_col": 1
+        },
+        {
+          "column_name": "Topic",
+          "source_col": 2
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 3
+        }
+      ],
+      "row_count": 104
+    },
+    {
+      "table_name": "Topics_and_Labs",
+      "source_sheet": "Topics & Labs",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item",
+          "source_col": 1
+        }
+      ],
+      "row_count": 55
+    }
+  ]
+}

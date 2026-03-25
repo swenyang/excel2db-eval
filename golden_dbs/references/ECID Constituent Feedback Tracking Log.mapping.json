@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Constituent_Contact",
+      "source_sheet": "Constituent Contact",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Event",
+          "source_col": 1
+        },
+        {
+          "column_name": "Comment",
+          "source_col": 2
+        },
+        {
+          "column_name": "Service Category",
+          "source_col": 3
+        },
+        {
+          "column_name": "District",
+          "source_col": 4
+        }
+      ],
+      "row_count": 22
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Territory_Fit_Report",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Store_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Region",
+          "source_col": 1
+        },
+        {
+          "column_name": "State",
+          "source_col": 2
+        },
+        {
+          "column_name": "Gender",
+          "source_col": 3
+        },
+        {
+          "column_name": "Fit",
+          "source_col": 4
+        },
+        {
+          "column_name": "Units_Ordered",
+          "source_col": 5
+        },
+        {
+          "column_name": "Total_Revenue",
+          "source_col": 6
+        }
+      ],
+      "row_count": 316
+    },
+    {
+      "table_name": "Summary",
+      "source_sheet": "summary",
+      "columns": [
+        {
+          "column_name": "Gender",
+          "source_col": 0
+        },
+        {
+          "column_name": "Fit",
+          "source_col": 1
+        },
+        {
+          "column_name": "Units_Ordered",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total_Revenue",
+          "source_col": 3
+        }
+      ],
+      "row_count": 20
+    }
+  ]
+}

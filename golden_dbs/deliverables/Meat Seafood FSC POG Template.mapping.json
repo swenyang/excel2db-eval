@@ -1,0 +1,58 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "FSC_POG_Summary",
+      "source_sheet": "FSC POG",
+      "columns": [
+        {
+          "column_name": "Metric",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        },
+        {
+          "column_name": "Unit",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "FSC_POG_Pans",
+      "source_sheet": "FSC POG",
+      "columns": [
+        {
+          "column_name": "Pan_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Pan_Width_Inches",
+          "source_col": 2
+        }
+      ],
+      "row_count": 48
+    },
+    {
+      "table_name": "Instructions",
+      "source_sheet": "INSTRUCTIONS",
+      "columns": [
+        {
+          "column_name": "Step",
+          "source_col": 0
+        },
+        {
+          "column_name": "Instruction",
+          "source_col": 1
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

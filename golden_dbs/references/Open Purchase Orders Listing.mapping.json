@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Open_Purchase_Orders",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Cab_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Period",
+          "source_col": 1
+        },
+        {
+          "column_name": "PO_Qty",
+          "source_col": 2
+        },
+        {
+          "column_name": "Ship_Qty",
+          "source_col": 3
+        },
+        {
+          "column_name": "Open_Qty",
+          "source_col": 4
+        }
+      ],
+      "row_count": 18
+    }
+  ]
+}

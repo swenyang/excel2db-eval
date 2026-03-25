@@ -1,0 +1,83 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "EMR_Transfer_Patients",
+      "source_sheet": "EMR TRANSFER PATIENTS",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Medical_Record_Numbers",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date_of_Birth",
+          "source_col": 2
+        },
+        {
+          "column_name": "Address",
+          "source_col": 3
+        },
+        {
+          "column_name": "Telephone",
+          "source_col": 4
+        },
+        {
+          "column_name": "Aliases",
+          "source_col": 5
+        },
+        {
+          "column_name": "Relative",
+          "source_col": 6
+        },
+        {
+          "column_name": "Deceased",
+          "source_col": 7
+        }
+      ],
+      "row_count": 200
+    },
+    {
+      "table_name": "Golden_Valley_EMS_DEC",
+      "source_sheet": "Golden Valley EMS DEC",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Medical_Record_Numbers",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date_of_Birth",
+          "source_col": 2
+        },
+        {
+          "column_name": "Address",
+          "source_col": 3
+        },
+        {
+          "column_name": "Telephone",
+          "source_col": 4
+        },
+        {
+          "column_name": "Aliases",
+          "source_col": 5
+        },
+        {
+          "column_name": "Relative",
+          "source_col": 6
+        },
+        {
+          "column_name": "Deceased",
+          "source_col": 7
+        }
+      ],
+      "row_count": 96
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Notes",
+      "source_sheet": "0.0 Notes",
+      "columns": [
+        {
+          "column_name": "Note",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "Weekly_Spend",
+      "source_sheet": "1.0 Current spend (Burn profile",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item",
+          "source_col": 1
+        },
+        {
+          "column_name": "Week_Commencing",
+          "source_col": 2
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 3
+        }
+      ],
+      "row_count": 370
+    },
+    {
+      "table_name": "Weekly_Resources",
+      "source_sheet": "2.0 Resources (used to date)",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item",
+          "source_col": 1
+        },
+        {
+          "column_name": "Week_Commencing",
+          "source_col": 2
+        },
+        {
+          "column_name": "Value",
+          "source_col": 3
+        }
+      ],
+      "row_count": 364
+    },
+    {
+      "table_name": "Rate_Card",
+      "source_sheet": "3.0 Rate card and costs",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item",
+          "source_col": 1
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 2
+        }
+      ],
+      "row_count": 15
+    },
+    {
+      "table_name": "Current_Personnel_Costs",
+      "source_sheet": "4.0 CURRENT PROJECT COSTS (to d",
+      "columns": [
+        {
+          "column_name": "Role",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total days worked (full project)",
+          "source_col": 1
+        },
+        {
+          "column_name": "Day rate (per role)",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total role cost",
+          "source_col": 3
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "Current_Material_Costs",
+      "source_sheet": "4.0 CURRENT PROJECT COSTS (to d",
+      "columns": [
+        {
+          "column_name": "Cost Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Per month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Full project cost",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Current_Travel_Costs",
+      "source_sheet": "4.0 CURRENT PROJECT COSTS (to d",
+      "columns": [
+        {
+          "column_name": "Expense Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Per month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Full project cost",
+          "source_col": 2
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_name": "Total_Personnel_Costs",
+      "source_sheet": "5.0 TOTAL PROJECT COSTS",
+      "columns": [
+        {
+          "column_name": "Role",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total days worked (full project)",
+          "source_col": 1
+        },
+        {
+          "column_name": "Day rate (per role)",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total role cost",
+          "source_col": 3
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "Total_Material_Costs",
+      "source_sheet": "5.0 TOTAL PROJECT COSTS",
+      "columns": [
+        {
+          "column_name": "Cost Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Per month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Full project cost",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Total_Travel_Costs",
+      "source_sheet": "5.0 TOTAL PROJECT COSTS",
+      "columns": [
+        {
+          "column_name": "Expense Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Per month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Full project cost",
+          "source_col": 2
+        }
+      ],
+      "row_count": 2
+    }
+  ]
+}

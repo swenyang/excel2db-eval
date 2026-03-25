@@ -1,0 +1,40 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Menopause_Formulary",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Group",
+          "source_col": 0
+        },
+        {
+          "column_name": "Brand_Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Generic_Name",
+          "source_col": 2
+        },
+        {
+          "column_name": "Formulation",
+          "source_col": 3
+        },
+        {
+          "column_name": "Route",
+          "source_col": 4
+        },
+        {
+          "column_name": "Drug_Strength",
+          "source_col": 5
+        },
+        {
+          "column_name": "Estimated_Cost",
+          "source_col": 6
+        }
+      ],
+      "row_count": 1
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "TY_Targets",
+      "source_sheet": "TY Targets",
+      "columns": [
+        {
+          "column_name": "Channel",
+          "source_col": 0
+        },
+        {
+          "column_name": "Metric",
+          "source_col": 1
+        },
+        {
+          "column_name": "Aug",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sep",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oct",
+          "source_col": 4
+        },
+        {
+          "column_name": "Nov",
+          "source_col": 5
+        },
+        {
+          "column_name": "Dec",
+          "source_col": 6
+        },
+        {
+          "column_name": "Jan",
+          "source_col": 7
+        },
+        {
+          "column_name": "Total_Fall",
+          "source_col": 8
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "TY_Inventory_Levels",
+      "source_sheet": "TY Targets",
+      "columns": [
+        {
+          "column_name": "Channel",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "LY_Data",
+      "source_sheet": "LY Data",
+      "columns": [
+        {
+          "column_name": "Channel",
+          "source_col": 0
+        },
+        {
+          "column_name": "Metric",
+          "source_col": 1
+        },
+        {
+          "column_name": "Aug",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sep",
+          "source_col": 3
+        },
+        {
+          "column_name": "Oct",
+          "source_col": 4
+        },
+        {
+          "column_name": "Nov",
+          "source_col": 5
+        },
+        {
+          "column_name": "Dec",
+          "source_col": 6
+        },
+        {
+          "column_name": "Jan",
+          "source_col": 7
+        },
+        {
+          "column_name": "Total_Fall",
+          "source_col": 8
+        }
+      ],
+      "row_count": 15
+    }
+  ]
+}

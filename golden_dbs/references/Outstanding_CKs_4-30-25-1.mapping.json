@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Outstanding_Checks",
+      "source_sheet": "#6) Bank recon 4-30-25",
+      "columns": [
+        {
+          "column_name": "Check_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month_Issued",
+          "source_col": 2
+        },
+        {
+          "column_name": "Payee",
+          "source_col": 3
+        }
+      ],
+      "row_count": 2
+    }
+  ]
+}

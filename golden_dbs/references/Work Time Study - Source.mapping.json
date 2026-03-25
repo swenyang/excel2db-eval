@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Source",
+      "source_sheet": "source",
+      "columns": [
+        {
+          "column_name": "Job Role",
+          "source_col": 0
+        },
+        {
+          "column_name": "Service",
+          "source_col": 1
+        },
+        {
+          "column_name": "Activity",
+          "source_col": 2
+        },
+        {
+          "column_name": "Activity Date - Old",
+          "source_col": 3
+        },
+        {
+          "column_name": "Activity Hours",
+          "source_col": 4
+        }
+      ],
+      "row_count": 15918
+    }
+  ]
+}

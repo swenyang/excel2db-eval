@@ -1,0 +1,60 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Damage_List",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "No",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rental Agreement no.",
+          "source_col": 1
+        },
+        {
+          "column_name": "Return Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Vehicle category",
+          "source_col": 3
+        },
+        {
+          "column_name": "Vehicle Make",
+          "source_col": 4
+        },
+        {
+          "column_name": "Vehicle Model",
+          "source_col": 5
+        },
+        {
+          "column_name": "License plate",
+          "source_col": 6
+        },
+        {
+          "column_name": "Damage type",
+          "source_col": 7
+        },
+        {
+          "column_name": "Car part",
+          "source_col": 8
+        },
+        {
+          "column_name": "Repair /Replace",
+          "source_col": 9
+        },
+        {
+          "column_name": "Charged amount $",
+          "source_col": 10
+        },
+        {
+          "column_name": "Payment Method",
+          "source_col": 11
+        }
+      ],
+      "row_count": 25
+    }
+  ]
+}

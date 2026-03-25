@@ -1,0 +1,20 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Store_List",
+      "source_sheet": "Store List",
+      "columns": [
+        {
+          "column_name": "STORE",
+          "source_col": 0
+        },
+        {
+          "column_name": "# OF UNITS",
+          "source_col": 1
+        }
+      ],
+      "row_count": 1228
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Drug_List",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Markings",
+          "source_col": 0
+        },
+        {
+          "column_name": "Color",
+          "source_col": 1
+        },
+        {
+          "column_name": "Shape",
+          "source_col": 2
+        },
+        {
+          "column_name": "Dose_form",
+          "source_col": 3
+        },
+        {
+          "column_name": "Medication_Name",
+          "source_col": 4
+        },
+        {
+          "column_name": "Strength",
+          "source_col": 5
+        },
+        {
+          "column_name": "Type",
+          "source_col": 6
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 7
+        }
+      ],
+      "row_count": 23
+    }
+  ]
+}

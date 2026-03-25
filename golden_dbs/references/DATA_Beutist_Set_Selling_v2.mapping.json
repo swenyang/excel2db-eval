@@ -1,0 +1,124 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "set_sales",
+      "source_sheet": "TAB 1",
+      "columns": [
+        {
+          "column_name": "Axe",
+          "source_col": 0
+        },
+        {
+          "column_name": "Brand",
+          "source_col": 1
+        },
+        {
+          "column_name": "YTD_Set_Sales",
+          "source_col": 2
+        },
+        {
+          "column_name": "Prior_Year_YTD_Set_Sales",
+          "source_col": 3
+        },
+        {
+          "column_name": "Q1_2023_Set_Sales",
+          "source_col": 4
+        },
+        {
+          "column_name": "Q4_2022_Set_Sales",
+          "source_col": 5
+        },
+        {
+          "column_name": "Q3_2022_Set_Sales",
+          "source_col": 6
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_name": "inventory_on_hand_on_order",
+      "source_sheet": "Tab 2",
+      "columns": [
+        {
+          "column_name": "Axe",
+          "source_col": 0
+        },
+        {
+          "column_name": "Brand",
+          "source_col": 1
+        },
+        {
+          "column_name": "Sum_of_OH_OO",
+          "source_col": 2
+        }
+      ],
+      "row_count": 19
+    },
+    {
+      "table_name": "quota_tracking",
+      "source_sheet": "Tab 3",
+      "columns": [
+        {
+          "column_name": "EAN_UPC",
+          "source_col": 0
+        },
+        {
+          "column_name": "Material_Recap_Code",
+          "source_col": 1
+        },
+        {
+          "column_name": "Material_Description",
+          "source_col": 2
+        },
+        {
+          "column_name": "Quota_Allocated_Qty",
+          "source_col": 3
+        },
+        {
+          "column_name": "Open_Order_Qty",
+          "source_col": 4
+        },
+        {
+          "column_name": "Delivered_Qty",
+          "source_col": 5
+        },
+        {
+          "column_name": "Available_Quantity",
+          "source_col": 6
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_name": "brand_shipments_oct_2023",
+      "source_sheet": "Tab 3",
+      "columns": [
+        {
+          "column_name": "Brand",
+          "source_col": 0
+        },
+        {
+          "column_name": "Shipments_Dollar",
+          "source_col": 1
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_name": "q1_2024_set_shipments",
+      "source_sheet": "Tab 4",
+      "columns": [
+        {
+          "column_name": "Brand",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total_Shipment_Dollar_Q1_2024_sets",
+          "source_col": 1
+        }
+      ],
+      "row_count": 10
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "data",
+      "source_sheet": "DATA",
+      "columns": [
+        {
+          "column_name": "Year",
+          "source_col": 0
+        },
+        {
+          "column_name": "Week",
+          "source_col": 1
+        },
+        {
+          "column_name": "Region",
+          "source_col": 2
+        },
+        {
+          "column_name": "Store_Name",
+          "source_col": 3
+        },
+        {
+          "column_name": "Store_Number",
+          "source_col": 4
+        },
+        {
+          "column_name": "UPC",
+          "source_col": 5
+        },
+        {
+          "column_name": "UPC_Description",
+          "source_col": 6
+        },
+        {
+          "column_name": "Last_Week_Inv",
+          "source_col": 7
+        },
+        {
+          "column_name": "Current_Week_Inv",
+          "source_col": 8
+        },
+        {
+          "column_name": "Inv_Change",
+          "source_col": 9
+        },
+        {
+          "column_name": "Daily_Inv_Sold_In_Last_4_Wks",
+          "source_col": 10
+        },
+        {
+          "column_name": "Avg_Days_On_Hand",
+          "source_col": 11
+        }
+      ],
+      "row_count": 6612
+    }
+  ]
+}

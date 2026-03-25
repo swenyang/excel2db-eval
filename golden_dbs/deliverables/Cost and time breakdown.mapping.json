@@ -1,0 +1,97 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "package_videos",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Package",
+          "source_col": 0
+        },
+        {
+          "column_name": "Video",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_to_shoot_hr",
+          "source_col": 2
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_name": "package_services",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Package",
+          "source_col": 0
+        },
+        {
+          "column_name": "Service",
+          "source_col": 1
+        },
+        {
+          "column_name": "Fee",
+          "source_col": 2
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_name": "package_summary",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Package",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total_Shoot_Time_hr",
+          "source_col": 1
+        },
+        {
+          "column_name": "Total_Before_Admin_Fee",
+          "source_col": 2
+        },
+        {
+          "column_name": "Administration_Fee",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total_Payable_incl_tax",
+          "source_col": 4
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "fee_reference",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Service_Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Fee_Type",
+          "source_col": 1
+        },
+        {
+          "column_name": "Unit_Duration",
+          "source_col": 2
+        },
+        {
+          "column_name": "Cost_CAD",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        }
+      ],
+      "row_count": 13
+    }
+  ]
+}

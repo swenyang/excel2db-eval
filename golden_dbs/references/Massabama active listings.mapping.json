@@ -1,0 +1,64 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Active_Listings",
+      "source_sheet": "23 Listings",
+      "columns": [
+        {
+          "column_name": "Status",
+          "source_col": 0
+        },
+        {
+          "column_name": "Type",
+          "source_col": 1
+        },
+        {
+          "column_name": "Price",
+          "source_col": 2
+        },
+        {
+          "column_name": "Address",
+          "source_col": 3
+        },
+        {
+          "column_name": "City",
+          "source_col": 4
+        },
+        {
+          "column_name": "State",
+          "source_col": 5
+        },
+        {
+          "column_name": "Zip",
+          "source_col": 6
+        },
+        {
+          "column_name": "Beds",
+          "source_col": 7
+        },
+        {
+          "column_name": "Baths",
+          "source_col": 8
+        },
+        {
+          "column_name": "SqFt",
+          "source_col": 9
+        },
+        {
+          "column_name": "Lot",
+          "source_col": 10
+        },
+        {
+          "column_name": "YearBuilt",
+          "source_col": 11
+        },
+        {
+          "column_name": "Image",
+          "source_col": 12
+        }
+      ],
+      "row_count": 23
+    }
+  ]
+}

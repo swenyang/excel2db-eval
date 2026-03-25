@@ -1,0 +1,48 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "shipment_manifest",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Pick_Ticket_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Customer",
+          "source_col": 1
+        },
+        {
+          "column_name": "Total_Weight_lbs",
+          "source_col": 2
+        },
+        {
+          "column_name": "Shipping_Method",
+          "source_col": 3
+        },
+        {
+          "column_name": "Tracking_Number",
+          "source_col": 4
+        },
+        {
+          "column_name": "Shipment_Details",
+          "source_col": 5
+        },
+        {
+          "column_name": "Shipment_Cost",
+          "source_col": 6
+        },
+        {
+          "column_name": "Industry_Avg_Cost",
+          "source_col": 7
+        },
+        {
+          "column_name": "Savings",
+          "source_col": 8
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

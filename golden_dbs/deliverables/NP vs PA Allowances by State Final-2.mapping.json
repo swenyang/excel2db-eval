@@ -1,0 +1,40 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "NP_vs_PA_Allowances_by_State",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "State",
+          "source_col": 0
+        },
+        {
+          "column_name": "NP_Independent_Practice",
+          "source_col": 1
+        },
+        {
+          "column_name": "PA_Independent_Practice",
+          "source_col": 2
+        },
+        {
+          "column_name": "NP_Chart_Cosignature",
+          "source_col": 3
+        },
+        {
+          "column_name": "PA_Chart_Cosignature",
+          "source_col": 4
+        },
+        {
+          "column_name": "NP_Physician_Supervision_Limit",
+          "source_col": 5
+        },
+        {
+          "column_name": "PA_Physician_Supervision_Limit",
+          "source_col": 6
+        }
+      ],
+      "row_count": 5
+    }
+  ]
+}

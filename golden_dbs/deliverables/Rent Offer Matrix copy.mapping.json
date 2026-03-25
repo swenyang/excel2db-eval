@@ -1,0 +1,101 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "property_info",
+      "source_sheet": "Lease Terms",
+      "columns": [
+        {
+          "column_name": "Suite_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Size_SF",
+          "source_col": 1
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "lease_scenarios",
+      "source_sheet": "Lease Terms",
+      "columns": [
+        {
+          "column_name": "Scenario",
+          "source_col": 0
+        },
+        {
+          "column_name": "Primary_Term_Years",
+          "source_col": 1
+        },
+        {
+          "column_name": "Rent_per_SF",
+          "source_col": 2
+        },
+        {
+          "column_name": "Base_Rent_per_Month",
+          "source_col": 3
+        },
+        {
+          "column_name": "Annual_Escalator",
+          "source_col": 4
+        },
+        {
+          "column_name": "Gross_Lease_Value",
+          "source_col": 5
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "annual_rent_matrix",
+      "source_sheet": "Lease Terms",
+      "columns": [
+        {
+          "column_name": "Scenario",
+          "source_col": 0
+        },
+        {
+          "column_name": "Year",
+          "source_col": 1
+        },
+        {
+          "column_name": "Base_Monthly_Rent",
+          "source_col": 2
+        },
+        {
+          "column_name": "Dollar_per_SF",
+          "source_col": 3
+        },
+        {
+          "column_name": "Annual_Base_Rent",
+          "source_col": 4
+        }
+      ],
+      "row_count": 18
+    },
+    {
+      "table_name": "monthly_rent_matrix",
+      "source_sheet": "Lease Terms",
+      "columns": [
+        {
+          "column_name": "Scenario",
+          "source_col": 0
+        },
+        {
+          "column_name": "Month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Rent_per_Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "Dollar_per_SF",
+          "source_col": 3
+        }
+      ],
+      "row_count": 216
+    }
+  ]
+}

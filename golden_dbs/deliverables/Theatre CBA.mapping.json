@@ -1,0 +1,345 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Instructions",
+      "source_sheet": "Instructions",
+      "columns": [
+        {
+          "column_name": "Step_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Instruction_Text",
+          "source_col": 1
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "Schedule",
+      "source_sheet": "Schedule",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Day",
+          "source_col": 1
+        },
+        {
+          "column_name": "Service",
+          "source_col": 2
+        },
+        {
+          "column_name": "Time_In",
+          "source_col": 3
+        },
+        {
+          "column_name": "Time_Out",
+          "source_col": 4
+        },
+        {
+          "column_name": "Total_Hours",
+          "source_col": 5
+        },
+        {
+          "column_name": "Early_Start",
+          "source_col": 6
+        },
+        {
+          "column_name": "Late_End",
+          "source_col": 7
+        },
+        {
+          "column_name": "Flag_1hr_Sound",
+          "source_col": 8
+        },
+        {
+          "column_name": "Flag_2hr_Sound",
+          "source_col": 9
+        },
+        {
+          "column_name": "Flag_Perf",
+          "source_col": 10
+        },
+        {
+          "column_name": "Flag_Reh_Start",
+          "source_col": 11
+        },
+        {
+          "column_name": "Flag_Reh_End",
+          "source_col": 12
+        },
+        {
+          "column_name": "Flag_Reh_5hr_Max",
+          "source_col": 13
+        },
+        {
+          "column_name": "Flag_Reh_3hr_Min",
+          "source_col": 14
+        },
+        {
+          "column_name": "Flags",
+          "source_col": 15
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_name": "Roster",
+      "source_sheet": "Roster",
+      "columns": [
+        {
+          "column_name": "Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Instrument",
+          "source_col": 1
+        },
+        {
+          "column_name": "Principal",
+          "source_col": 2
+        },
+        {
+          "column_name": "Lead",
+          "source_col": 3
+        },
+        {
+          "column_name": "Quartet",
+          "source_col": 4
+        },
+        {
+          "column_name": "Sub",
+          "source_col": 5
+        },
+        {
+          "column_name": "Doubles",
+          "source_col": 6
+        },
+        {
+          "column_name": "Flag_Princ_Lead",
+          "source_col": 7
+        },
+        {
+          "column_name": "Flag_Quartet",
+          "source_col": 8
+        },
+        {
+          "column_name": "Flag_Sub",
+          "source_col": 9
+        },
+        {
+          "column_name": "Week_Audit",
+          "source_col": 10
+        },
+        {
+          "column_name": "Week_1hr_Sound_Check",
+          "source_col": 11
+        },
+        {
+          "column_name": "Week_2hr_Sound_Check",
+          "source_col": 12
+        },
+        {
+          "column_name": "Week_Rehearsal_Hrs",
+          "source_col": 13
+        },
+        {
+          "column_name": "Week_Performance",
+          "source_col": 14
+        },
+        {
+          "column_name": "Rate_Vacation",
+          "source_col": 15
+        },
+        {
+          "column_name": "Rate_Premium",
+          "source_col": 16
+        },
+        {
+          "column_name": "Rate_Doubling",
+          "source_col": 17
+        },
+        {
+          "column_name": "Earnings_Audit",
+          "source_col": 18
+        },
+        {
+          "column_name": "Earnings_Sound_Check",
+          "source_col": 19
+        },
+        {
+          "column_name": "Earnings_Rehearsal",
+          "source_col": 20
+        },
+        {
+          "column_name": "Earnings_Performance",
+          "source_col": 21
+        },
+        {
+          "column_name": "Earnings_Premium",
+          "source_col": 22
+        },
+        {
+          "column_name": "Earnings_Doubling",
+          "source_col": 23
+        },
+        {
+          "column_name": "Earnings_Vacation",
+          "source_col": 24
+        },
+        {
+          "column_name": "Earnings_Total",
+          "source_col": 25
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Supplemental_Schedules",
+      "source_sheet": "Supplemental Schedules--->",
+      "columns": [
+        {
+          "column_name": "Placeholder",
+          "source_col": 0
+        }
+      ],
+      "row_count": 0
+    },
+    {
+      "table_name": "Rates_Wages",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Wage_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_Limit",
+          "source_col": 2
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Rates_Premiums",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Premium_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Rates_Substitutes",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Sub_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 2
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Rates_Synth_Sub_Wage_Test",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Num_Performances",
+          "source_col": 0
+        },
+        {
+          "column_name": "Sub_Plus_Synth",
+          "source_col": 1
+        },
+        {
+          "column_name": "Synth_Only",
+          "source_col": 2
+        },
+        {
+          "column_name": "Per_Article_4_2_f_ii",
+          "source_col": 3
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "Rates_Doubling",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_name": "Rates_Benefits",
+      "source_sheet": "Rates",
+      "columns": [
+        {
+          "column_name": "Benefit_Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rate",
+          "source_col": 1
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Lookup_Principal_Instruments",
+      "source_sheet": "Lookup",
+      "columns": [
+        {
+          "column_name": "Instrument",
+          "source_col": 0
+        },
+        {
+          "column_name": "Note",
+          "source_col": 1
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_name": "Lookup_Service_Types",
+      "source_sheet": "Lookup",
+      "columns": [
+        {
+          "column_name": "Service_Type",
+          "source_col": 0
+        }
+      ],
+      "row_count": 5
+    }
+  ]
+}

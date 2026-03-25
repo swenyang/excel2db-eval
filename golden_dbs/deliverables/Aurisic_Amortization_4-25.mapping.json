@@ -1,0 +1,166 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Prepaid_Summary",
+      "source_sheet": "Prepaid Summary",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 2
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "PPD_Exp_1250",
+      "source_sheet": "PPD Exp #1250",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Beginning Balance",
+          "source_col": 1
+        },
+        {
+          "column_name": "Jan Debit Adds",
+          "source_col": 2
+        },
+        {
+          "column_name": "Jan Credit WOs",
+          "source_col": 3
+        },
+        {
+          "column_name": "Jan End Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Feb Debit Adds",
+          "source_col": 5
+        },
+        {
+          "column_name": "Feb Credit WOs",
+          "source_col": 6
+        },
+        {
+          "column_name": "Feb End Balance",
+          "source_col": 7
+        },
+        {
+          "column_name": "Mar Debit Adds",
+          "source_col": 8
+        },
+        {
+          "column_name": "Mar Credit WOs",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mar End Balance",
+          "source_col": 10
+        },
+        {
+          "column_name": "Apr Debit Adds",
+          "source_col": 11
+        },
+        {
+          "column_name": "Apr Credit WOs",
+          "source_col": 12
+        },
+        {
+          "column_name": "Apr End Balance",
+          "source_col": 13
+        },
+        {
+          "column_name": "Amortization Months",
+          "source_col": 14
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 15
+        }
+      ],
+      "row_count": 41
+    },
+    {
+      "table_name": "PPD_Ins_1251",
+      "source_sheet": "PPD Ins #1251",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Beginning Balance",
+          "source_col": 1
+        },
+        {
+          "column_name": "Jan Debit Adds",
+          "source_col": 2
+        },
+        {
+          "column_name": "Jan Credit WOs",
+          "source_col": 3
+        },
+        {
+          "column_name": "Jan End Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Feb Debit Adds",
+          "source_col": 5
+        },
+        {
+          "column_name": "Feb Credit WOs",
+          "source_col": 6
+        },
+        {
+          "column_name": "Feb End Balance",
+          "source_col": 7
+        },
+        {
+          "column_name": "Mar Debit Adds",
+          "source_col": 8
+        },
+        {
+          "column_name": "Mar Credit WOs",
+          "source_col": 9
+        },
+        {
+          "column_name": "Mar End Balance",
+          "source_col": 10
+        },
+        {
+          "column_name": "Apr Debit Adds",
+          "source_col": 11
+        },
+        {
+          "column_name": "Apr Credit WOs",
+          "source_col": 12
+        },
+        {
+          "column_name": "Apr End Balance",
+          "source_col": 13
+        },
+        {
+          "column_name": "Amortization Months",
+          "source_col": 14
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 15
+        }
+      ],
+      "row_count": 22
+    }
+  ]
+}

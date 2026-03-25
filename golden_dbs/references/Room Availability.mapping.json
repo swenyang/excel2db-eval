@@ -1,0 +1,146 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "room_schedule_october_november",
+      "source_sheet": "October-November",
+      "columns": [
+        {
+          "column_name": "Week",
+          "source_col": 0
+        },
+        {
+          "column_name": "Room",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_Slot",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sunday",
+          "source_col": 3
+        },
+        {
+          "column_name": "Monday",
+          "source_col": 4
+        },
+        {
+          "column_name": "Tuesday",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wednesday",
+          "source_col": 6
+        },
+        {
+          "column_name": "Thursday",
+          "source_col": 7
+        },
+        {
+          "column_name": "Friday",
+          "source_col": 8
+        },
+        {
+          "column_name": "Saturday",
+          "source_col": 9
+        }
+      ],
+      "row_count": 0
+    },
+    {
+      "table_name": "room_schedule_november",
+      "source_sheet": "November",
+      "columns": [
+        {
+          "column_name": "Week",
+          "source_col": 0
+        },
+        {
+          "column_name": "Room",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_Slot",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sunday",
+          "source_col": 3
+        },
+        {
+          "column_name": "Monday",
+          "source_col": 4
+        },
+        {
+          "column_name": "Tuesday",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wednesday",
+          "source_col": 6
+        },
+        {
+          "column_name": "Thursday",
+          "source_col": 7
+        },
+        {
+          "column_name": "Friday",
+          "source_col": 8
+        },
+        {
+          "column_name": "Saturday",
+          "source_col": 9
+        }
+      ],
+      "row_count": 0
+    },
+    {
+      "table_name": "room_schedule_november_december",
+      "source_sheet": "November-December",
+      "columns": [
+        {
+          "column_name": "Week",
+          "source_col": 0
+        },
+        {
+          "column_name": "Room",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_Slot",
+          "source_col": 2
+        },
+        {
+          "column_name": "Sunday",
+          "source_col": 3
+        },
+        {
+          "column_name": "Monday",
+          "source_col": 4
+        },
+        {
+          "column_name": "Tuesday",
+          "source_col": 5
+        },
+        {
+          "column_name": "Wednesday",
+          "source_col": 6
+        },
+        {
+          "column_name": "Thursday",
+          "source_col": 7
+        },
+        {
+          "column_name": "Friday",
+          "source_col": 8
+        },
+        {
+          "column_name": "Saturday",
+          "source_col": 9
+        }
+      ],
+      "row_count": 0
+    }
+  ]
+}

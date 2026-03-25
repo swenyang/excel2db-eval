@@ -1,0 +1,75 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "ppd_expenses_1250",
+      "source_sheet": "PPD Exps #1250",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit Adds",
+          "source_col": 2
+        },
+        {
+          "column_name": "Credit Writeoffs",
+          "source_col": 3
+        },
+        {
+          "column_name": "End Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Period",
+          "source_col": 5
+        },
+        {
+          "column_name": "Description_Comments",
+          "source_col": 6
+        }
+      ],
+      "row_count": 270
+    },
+    {
+      "table_name": "ppd_insurance_1251_2024",
+      "source_sheet": "PPD Ins #1251 (2024)",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Payment Period",
+          "source_col": 2
+        },
+        {
+          "column_name": "Month",
+          "source_col": 3
+        },
+        {
+          "column_name": "Debit Adds",
+          "source_col": 4
+        },
+        {
+          "column_name": "Credit Writeoffs",
+          "source_col": 5
+        },
+        {
+          "column_name": "End Balance",
+          "source_col": 6
+        }
+      ],
+      "row_count": 200
+    }
+  ]
+}

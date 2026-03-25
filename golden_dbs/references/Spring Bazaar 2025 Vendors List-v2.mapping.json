@@ -1,0 +1,36 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Spring_2025_Vendors",
+      "source_sheet": "Spring 2025",
+      "columns": [
+        {
+          "column_name": "Num_Tables",
+          "source_col": 0
+        },
+        {
+          "column_name": "Location",
+          "source_col": 1
+        },
+        {
+          "column_name": "Business_Name",
+          "source_col": 2
+        },
+        {
+          "column_name": "Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Preferences",
+          "source_col": 4
+        },
+        {
+          "column_name": "Electricity",
+          "source_col": 5
+        }
+      ],
+      "row_count": 62
+    }
+  ]
+}

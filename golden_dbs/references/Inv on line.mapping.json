@@ -1,0 +1,36 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Inventory_On_Line",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Item Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Line OH",
+          "source_col": 2
+        },
+        {
+          "column_name": "Line Location",
+          "source_col": 3
+        },
+        {
+          "column_name": "Min",
+          "source_col": 4
+        },
+        {
+          "column_name": "Max",
+          "source_col": 5
+        }
+      ],
+      "row_count": 127
+    }
+  ]
+}

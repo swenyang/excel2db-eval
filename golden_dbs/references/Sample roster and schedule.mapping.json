@@ -1,0 +1,43 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Sample_Roster",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Instrument",
+          "source_col": 0
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 1
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Sample_Schedule",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Day",
+          "source_col": 0
+        },
+        {
+          "column_name": "Service",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_In",
+          "source_col": 2
+        },
+        {
+          "column_name": "Time_Out",
+          "source_col": 3
+        }
+      ],
+      "row_count": 10
+    }
+  ]
+}

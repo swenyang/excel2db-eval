@@ -1,0 +1,47 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "ID_Theft_Reimbursements",
+      "source_sheet": "ID theft reimbursements sample",
+      "columns": [
+        {
+          "column_name": "Policy Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Policy Type",
+          "source_col": 1
+        },
+        {
+          "column_name": "Reason for Payout",
+          "source_col": 2
+        },
+        {
+          "column_name": "Claim Circumstance",
+          "source_col": 3
+        },
+        {
+          "column_name": "Amount Reimbursed",
+          "source_col": 4
+        },
+        {
+          "column_name": "Payout Month",
+          "source_col": 5
+        }
+      ],
+      "row_count": 50
+    },
+    {
+      "table_name": "Possible_Claim_Circumstances",
+      "source_sheet": "ID theft reimbursements sample",
+      "columns": [
+        {
+          "column_name": "Claim Circumstance",
+          "source_col": 0
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

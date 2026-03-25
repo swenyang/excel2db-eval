@@ -1,0 +1,100 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "summary_kpis",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Metric",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "category_utilization",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Utilization_Pct",
+          "source_col": 1
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "breakdown_by_category",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total_Rentals",
+          "source_col": 1
+        },
+        {
+          "column_name": "Total_Days",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total_Revenue",
+          "source_col": 3
+        },
+        {
+          "column_name": "Avg_per_Rental",
+          "source_col": 4
+        },
+        {
+          "column_name": "Avg_per_Day",
+          "source_col": 5
+        },
+        {
+          "column_name": "Avg_Length_Of_Rental",
+          "source_col": 6
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "booking_sources",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Source",
+          "source_col": 0
+        },
+        {
+          "column_name": "Number_of_Rentals",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "payment_methods",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Payment_Method",
+          "source_col": 0
+        },
+        {
+          "column_name": "Revenue_Collected",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    }
+  ]
+}

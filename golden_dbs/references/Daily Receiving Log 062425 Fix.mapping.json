@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "daily_receiving_log",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "PO_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Supplier",
+          "source_col": 1
+        },
+        {
+          "column_name": "Item_Number",
+          "source_col": 2
+        },
+        {
+          "column_name": "Item_Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Qty_Ordered",
+          "source_col": 4
+        },
+        {
+          "column_name": "Qty_Received",
+          "source_col": 5
+        },
+        {
+          "column_name": "Qty_Backordered",
+          "source_col": 6
+        },
+        {
+          "column_name": "On_Time",
+          "source_col": 7
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

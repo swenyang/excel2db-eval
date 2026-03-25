@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "FG_BOM_Requirement",
+      "source_sheet": "FG BOM Requirement",
+      "columns": [
+        {
+          "column_name": "FG Part",
+          "source_col": 0
+        },
+        {
+          "column_name": "Tooling Pack",
+          "source_col": 1
+        },
+        {
+          "column_name": "Yards/Hour",
+          "source_col": 2
+        },
+        {
+          "column_name": "FG Pack Size yards",
+          "source_col": 3
+        },
+        {
+          "column_name": "Raw Pounds",
+          "source_col": 4
+        }
+      ],
+      "row_count": 42
+    }
+  ]
+}

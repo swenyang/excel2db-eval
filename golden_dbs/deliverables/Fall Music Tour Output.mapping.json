@@ -1,0 +1,36 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "PL_Tour",
+      "source_sheet": "P&L Tour",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Line Item",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Tour Manager",
+          "source_col": 3
+        },
+        {
+          "column_name": "Production Company",
+          "source_col": 4
+        },
+        {
+          "column_name": "Total",
+          "source_col": 5
+        }
+      ],
+      "row_count": 26
+    }
+  ]
+}

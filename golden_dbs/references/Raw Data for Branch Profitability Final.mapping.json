@@ -1,0 +1,120 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "raw_data",
+      "source_sheet": "Raw Data",
+      "columns": [
+        {
+          "column_name": "Branch",
+          "source_col": 0
+        },
+        {
+          "column_name": "Region",
+          "source_col": 1
+        },
+        {
+          "column_name": "Account",
+          "source_col": 2
+        },
+        {
+          "column_name": "M1",
+          "source_col": 3
+        },
+        {
+          "column_name": "M2",
+          "source_col": 4
+        },
+        {
+          "column_name": "M3",
+          "source_col": 5
+        },
+        {
+          "column_name": "M4",
+          "source_col": 6
+        },
+        {
+          "column_name": "M5",
+          "source_col": 7
+        },
+        {
+          "column_name": "M6",
+          "source_col": 8
+        },
+        {
+          "column_name": "M7",
+          "source_col": 9
+        },
+        {
+          "column_name": "M8",
+          "source_col": 10
+        },
+        {
+          "column_name": "M9",
+          "source_col": 11
+        },
+        {
+          "column_name": "M10",
+          "source_col": 12
+        },
+        {
+          "column_name": "M11",
+          "source_col": 13
+        },
+        {
+          "column_name": "M12",
+          "source_col": 14
+        },
+        {
+          "column_name": "M13",
+          "source_col": 15
+        },
+        {
+          "column_name": "M14",
+          "source_col": 16
+        },
+        {
+          "column_name": "M15",
+          "source_col": 17
+        },
+        {
+          "column_name": "M16",
+          "source_col": 18
+        },
+        {
+          "column_name": "M17",
+          "source_col": 19
+        },
+        {
+          "column_name": "M18",
+          "source_col": 20
+        },
+        {
+          "column_name": "M19",
+          "source_col": 21
+        },
+        {
+          "column_name": "M20",
+          "source_col": 22
+        },
+        {
+          "column_name": "M21",
+          "source_col": 23
+        },
+        {
+          "column_name": "M22",
+          "source_col": 24
+        },
+        {
+          "column_name": "M23",
+          "source_col": 25
+        },
+        {
+          "column_name": "M24",
+          "source_col": 26
+        }
+      ],
+      "row_count": 231
+    }
+  ]
+}

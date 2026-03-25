@@ -1,0 +1,48 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "daily_shipment_manifest",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Pick Ticket Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Customer",
+          "source_col": 1
+        },
+        {
+          "column_name": "Total Weight lbs",
+          "source_col": 2
+        },
+        {
+          "column_name": "Shipping Method",
+          "source_col": 3
+        },
+        {
+          "column_name": "Tracking Number",
+          "source_col": 4
+        },
+        {
+          "column_name": "Shipment Details",
+          "source_col": 5
+        },
+        {
+          "column_name": "Shipment Cost",
+          "source_col": 6
+        },
+        {
+          "column_name": "Industry Avg Cost",
+          "source_col": 7
+        },
+        {
+          "column_name": "Savings",
+          "source_col": 8
+        }
+      ],
+      "row_count": 0
+    }
+  ]
+}

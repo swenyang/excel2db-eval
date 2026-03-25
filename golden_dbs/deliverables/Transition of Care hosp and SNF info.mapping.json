@@ -1,0 +1,58 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Guidelines_TFU",
+      "source_sheet": "Guidelines TFU",
+      "columns": [
+        {
+          "column_name": "Acuity_Level",
+          "source_col": 0
+        },
+        {
+          "column_name": "Recommended_Follow_Up_Timeframe",
+          "source_col": 1
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Hospitals",
+      "source_sheet": "Hospitals",
+      "columns": [
+        {
+          "column_name": "Facility_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Address",
+          "source_col": 1
+        },
+        {
+          "column_name": "Telephone_Number",
+          "source_col": 2
+        }
+      ],
+      "row_count": 28
+    },
+    {
+      "table_name": "Rehabs_SNFs",
+      "source_sheet": "Rehabs, SNFs",
+      "columns": [
+        {
+          "column_name": "Facility_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Address",
+          "source_col": 1
+        },
+        {
+          "column_name": "Telephone_Number",
+          "source_col": 2
+        }
+      ],
+      "row_count": 83
+    }
+  ]
+}

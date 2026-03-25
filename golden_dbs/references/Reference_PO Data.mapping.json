@@ -1,0 +1,44 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "po_data",
+      "source_sheet": "RawData",
+      "columns": [
+        {
+          "column_name": "PO_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "SKU",
+          "source_col": 1
+        },
+        {
+          "column_name": "Ordered_Units",
+          "source_col": 2
+        },
+        {
+          "column_name": "Entered_Unit_Price",
+          "source_col": 3
+        },
+        {
+          "column_name": "Expected_Unit_Price",
+          "source_col": 4
+        },
+        {
+          "column_name": "UOM",
+          "source_col": 5
+        },
+        {
+          "column_name": "Case_Pack",
+          "source_col": 6
+        },
+        {
+          "column_name": "Ship_to_Location",
+          "source_col": 7
+        }
+      ],
+      "row_count": 41
+    }
+  ]
+}

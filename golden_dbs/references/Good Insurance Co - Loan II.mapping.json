@@ -1,0 +1,75 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Loan_Details",
+      "source_sheet": "OMAHAII",
+      "columns": [
+        {
+          "column_name": "Lender",
+          "source_col": 0
+        },
+        {
+          "column_name": "Borrower",
+          "source_col": 1
+        },
+        {
+          "column_name": "Interest_Rate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Spread",
+          "source_col": 3
+        },
+        {
+          "column_name": "Maturity_Date",
+          "source_col": 4
+        },
+        {
+          "column_name": "Interest_Frequency",
+          "source_col": 5
+        },
+        {
+          "column_name": "Principal_Payment",
+          "source_col": 6
+        }
+      ],
+      "row_count": 1
+    },
+    {
+      "table_name": "Loan_Transactions",
+      "source_sheet": "OMAHAII",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Principal_Transaction",
+          "source_col": 1
+        },
+        {
+          "column_name": "Interest_Rate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Interest_Transaction",
+          "source_col": 3
+        },
+        {
+          "column_name": "Running_Interest_Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Running_Principal_Balance",
+          "source_col": 5
+        },
+        {
+          "column_name": "Total_Balance",
+          "source_col": 6
+        }
+      ],
+      "row_count": 14
+    }
+  ]
+}

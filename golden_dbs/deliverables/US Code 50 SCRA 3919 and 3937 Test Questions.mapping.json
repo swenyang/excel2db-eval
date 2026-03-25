@@ -1,0 +1,51 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Exercise_of_Rights",
+      "source_sheet": "Exercise of Rights",
+      "columns": [
+        {
+          "column_name": "Testing Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Unique ID",
+          "source_col": 1
+        },
+        {
+          "column_name": "SCRA - Exercise of Rights",
+          "source_col": 2
+        },
+        {
+          "column_name": "Citation",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Maximum_Interest_Rate",
+      "source_sheet": "Maximum Interest Rate",
+      "columns": [
+        {
+          "column_name": "Testing Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Unique ID",
+          "source_col": 1
+        },
+        {
+          "column_name": "SCRA - Maximum Interest Rate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Citation",
+          "source_col": 3
+        }
+      ],
+      "row_count": 5
+    }
+  ]
+}

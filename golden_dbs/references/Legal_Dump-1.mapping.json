@@ -1,0 +1,64 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Legal_Dump",
+      "source_sheet": "Legal Dump",
+      "columns": [
+        {
+          "column_name": "Cono",
+          "source_col": 0
+        },
+        {
+          "column_name": "Division",
+          "source_col": 1
+        },
+        {
+          "column_name": "PostDate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Period",
+          "source_col": 3
+        },
+        {
+          "column_name": "Apinvno",
+          "source_col": 4
+        },
+        {
+          "column_name": "Vendno",
+          "source_col": 5
+        },
+        {
+          "column_name": "VendName",
+          "source_col": 6
+        },
+        {
+          "column_name": "Jrnlno",
+          "source_col": 7
+        },
+        {
+          "column_name": "GLAcXPno",
+          "source_col": 8
+        },
+        {
+          "column_name": "Gltitle",
+          "source_col": 9
+        },
+        {
+          "column_name": "Refer",
+          "source_col": 10
+        },
+        {
+          "column_name": "Debit",
+          "source_col": 11
+        },
+        {
+          "column_name": "Credit",
+          "source_col": 12
+        }
+      ],
+      "row_count": 57
+    }
+  ]
+}

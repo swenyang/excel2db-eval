@@ -1,0 +1,64 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "award_data",
+      "source_sheet": "Award Data",
+      "columns": [
+        {
+          "column_name": "Recipient Award Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Start Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "End Date",
+          "source_col": 2
+        },
+        {
+          "column_name": "Initial Awarded Amt",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total Awarded Amt",
+          "source_col": 4
+        },
+        {
+          "column_name": "Payment System Drawdown",
+          "source_col": 5
+        },
+        {
+          "column_name": "Financial System Drawdown",
+          "source_col": 6
+        },
+        {
+          "column_name": "Unobligated Balance",
+          "source_col": 7
+        },
+        {
+          "column_name": "Hold Amt",
+          "source_col": 8
+        },
+        {
+          "column_name": "Delinquent FFR",
+          "source_col": 9
+        },
+        {
+          "column_name": "FFR Unobligated Balance",
+          "source_col": 10
+        },
+        {
+          "column_name": "FFR Expenditure Amt",
+          "source_col": 11
+        },
+        {
+          "column_name": "Award Amt Accepted",
+          "source_col": 12
+        }
+      ],
+      "row_count": 2458
+    }
+  ]
+}

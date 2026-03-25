@@ -1,0 +1,67 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Pick_Tickets",
+      "source_sheet": "PT1, PT2, PT3",
+      "columns": [
+        {
+          "column_name": "Pick Ticket No",
+          "source_col": 0
+        },
+        {
+          "column_name": "Ship To",
+          "source_col": 1
+        },
+        {
+          "column_name": "Item No",
+          "source_col": 2
+        },
+        {
+          "column_name": "Item Description",
+          "source_col": 3
+        },
+        {
+          "column_name": "Location",
+          "source_col": 4
+        },
+        {
+          "column_name": "Item lbs",
+          "source_col": 5
+        },
+        {
+          "column_name": "Qty Ordered",
+          "source_col": 6
+        },
+        {
+          "column_name": "Qty Picked",
+          "source_col": 7
+        },
+        {
+          "column_name": "Qty BO",
+          "source_col": 8
+        },
+        {
+          "column_name": "Total Weight lbs",
+          "source_col": 9
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Shipping_Methods",
+      "source_sheet": "Shipping Methods",
+      "columns": [
+        {
+          "column_name": "Weight Range",
+          "source_col": 0
+        },
+        {
+          "column_name": "Shipping Method",
+          "source_col": 1
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

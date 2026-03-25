@@ -1,0 +1,152 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Clinical_Guidelines_Reference",
+      "source_sheet": "Clinical Guidelines Reference",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Guideline",
+          "source_col": 1
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Adequacy_Tracker",
+      "source_sheet": "Adequacy Tracker",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "MRN",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "URR",
+          "source_col": 3
+        },
+        {
+          "column_name": "KT_V",
+          "source_col": 4
+        },
+        {
+          "column_name": "Document_Changes_Made",
+          "source_col": 5
+        }
+      ],
+      "row_count": 84
+    },
+    {
+      "table_name": "Anemia_Tracker",
+      "source_sheet": "Anemia Tracker",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "MRN",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "HGB_HCT",
+          "source_col": 3
+        },
+        {
+          "column_name": "T_Sat",
+          "source_col": 4
+        },
+        {
+          "column_name": "Ferritin",
+          "source_col": 5
+        },
+        {
+          "column_name": "Iron",
+          "source_col": 6
+        },
+        {
+          "column_name": "Document_Changes_Made",
+          "source_col": 7
+        }
+      ],
+      "row_count": 84
+    },
+    {
+      "table_name": "Nutrition_Management",
+      "source_sheet": "Nutrition Management",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "MRN",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "Serum_Albumin",
+          "source_col": 3
+        },
+        {
+          "column_name": "Document_Changes_Made",
+          "source_col": 4
+        }
+      ],
+      "row_count": 84
+    },
+    {
+      "table_name": "Mineral_Metabolism_Management",
+      "source_sheet": "Mineral Metabolism Management",
+      "columns": [
+        {
+          "column_name": "Patient_Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "MRN",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "Phosphorus",
+          "source_col": 3
+        },
+        {
+          "column_name": "Uncorrected_Calcium",
+          "source_col": 4
+        },
+        {
+          "column_name": "Document_Changes_Phosphorus",
+          "source_col": 5
+        },
+        {
+          "column_name": "Document_Changes_Calcium",
+          "source_col": 6
+        }
+      ],
+      "row_count": 84
+    }
+  ]
+}

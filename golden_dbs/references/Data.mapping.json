@@ -1,0 +1,137 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "AISI_1018_Hardness_240C",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Specimen",
+          "source_col": 0
+        },
+        {
+          "column_name": "Time_0_min",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_5_min",
+          "source_col": 2
+        },
+        {
+          "column_name": "Time_10_min",
+          "source_col": 3
+        },
+        {
+          "column_name": "Time_15_min",
+          "source_col": 4
+        },
+        {
+          "column_name": "Time_25_min",
+          "source_col": 5
+        },
+        {
+          "column_name": "Time_35_min",
+          "source_col": 6
+        },
+        {
+          "column_name": "Time_45_min",
+          "source_col": 7
+        },
+        {
+          "column_name": "Time_65_min",
+          "source_col": 8
+        },
+        {
+          "column_name": "Time_85_min",
+          "source_col": 9
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "AISI_1045_Hardness_285C",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Specimen",
+          "source_col": 0
+        },
+        {
+          "column_name": "Time_0_min",
+          "source_col": 1
+        },
+        {
+          "column_name": "Time_5_min",
+          "source_col": 2
+        },
+        {
+          "column_name": "Time_10_min",
+          "source_col": 3
+        },
+        {
+          "column_name": "Time_15_min",
+          "source_col": 4
+        },
+        {
+          "column_name": "Time_25_min",
+          "source_col": 5
+        },
+        {
+          "column_name": "Time_35_min",
+          "source_col": 6
+        },
+        {
+          "column_name": "Time_45_min",
+          "source_col": 7
+        },
+        {
+          "column_name": "Time_65_min",
+          "source_col": 8
+        },
+        {
+          "column_name": "Time_85_min",
+          "source_col": 9
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Hardness_Comparison",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Time (Min)",
+          "source_col": 0
+        },
+        {
+          "column_name": "AISI 1018",
+          "source_col": 1
+        },
+        {
+          "column_name": "AISI 1045",
+          "source_col": 2
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "Additional_Hardness_Data",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Specimen",
+          "source_col": 0
+        },
+        {
+          "column_name": "2015-10-29",
+          "source_col": 1
+        },
+        {
+          "column_name": "2015-11-05",
+          "source_col": 2
+        }
+      ],
+      "row_count": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "part_info",
+      "source_sheet": "COVER PLATE",
+      "columns": [
+        {
+          "column_name": "Property",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "manufacturing_steps",
+      "source_sheet": "COVER PLATE",
+      "columns": [
+        {
+          "column_name": "Step_Order_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Operation_Number",
+          "source_col": 1
+        },
+        {
+          "column_name": "Feature",
+          "source_col": 2
+        },
+        {
+          "column_name": "Cutting_Tool",
+          "source_col": 3
+        },
+        {
+          "column_name": "Tool_Holders",
+          "source_col": 4
+        }
+      ],
+      "row_count": 17
+    }
+  ]
+}

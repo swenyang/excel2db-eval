@@ -1,0 +1,43 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Bonus_Accrual_2401",
+      "source_sheet": "Bonus Accru #2401",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 2
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "Salary_Reference",
+      "source_sheet": "Bonus Accru #2401",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 2
+        }
+      ],
+      "row_count": 2
+    }
+  ]
+}

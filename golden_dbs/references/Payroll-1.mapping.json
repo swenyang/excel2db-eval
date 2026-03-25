@@ -1,0 +1,55 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Payroll_Accrual",
+      "source_sheet": "Payroll Accrual",
+      "columns": [
+        {
+          "column_name": "Acct Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct No",
+          "source_col": 1
+        },
+        {
+          "column_name": "Dr_Cr_4_4_25",
+          "source_col": 2
+        },
+        {
+          "column_name": "Dr_Cr_4_18_25",
+          "source_col": 3
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 4
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_name": "Payroll_Accrual_Adjustments",
+      "source_sheet": "Payroll Accrual",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Acct No",
+          "source_col": 2
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Store_Sales_Report",
+      "source_sheet": "Store Sales Report",
+      "columns": [
+        {
+          "column_name": "Store Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Brand Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Category",
+          "source_col": 2
+        },
+        {
+          "column_name": "Product Name",
+          "source_col": 3
+        },
+        {
+          "column_name": "SKU Number",
+          "source_col": 4
+        },
+        {
+          "column_name": "Week to Date Sales Quantity",
+          "source_col": 5
+        },
+        {
+          "column_name": "Week to Date Sales $",
+          "source_col": 6
+        },
+        {
+          "column_name": "Week to Date Stock on Hand",
+          "source_col": 7
+        },
+        {
+          "column_name": "Month to Date Sales Quantity",
+          "source_col": 8
+        },
+        {
+          "column_name": "Month to Date Sales $",
+          "source_col": 9
+        },
+        {
+          "column_name": "Month to Date Stock on Hand",
+          "source_col": 10
+        },
+        {
+          "column_name": "Year to Date Sales Quantity",
+          "source_col": 11
+        },
+        {
+          "column_name": "Year to Date Sales $",
+          "source_col": 12
+        },
+        {
+          "column_name": "Year to Date Stock on Hand",
+          "source_col": 13
+        },
+        {
+          "column_name": "SKN",
+          "source_col": 14
+        },
+        {
+          "column_name": "Unit Cost",
+          "source_col": 15
+        },
+        {
+          "column_name": "Retail Price",
+          "source_col": 16
+        },
+        {
+          "column_name": "Sell Through %",
+          "source_col": 17
+        }
+      ],
+      "row_count": 936
+    }
+  ]
+}

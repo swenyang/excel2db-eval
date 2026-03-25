@@ -1,0 +1,93 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Budget_Original",
+      "source_sheet": "BUDGET",
+      "columns": [
+        {
+          "column_name": "Element",
+          "source_col": 0
+        },
+        {
+          "column_name": "Cost Per Unit",
+          "source_col": 1
+        },
+        {
+          "column_name": "Pcs/Unit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total Cost Per Unit",
+          "source_col": 3
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Budget_Revised",
+      "source_sheet": "BUDGET",
+      "columns": [
+        {
+          "column_name": "Element",
+          "source_col": 0
+        },
+        {
+          "column_name": "Cost Per Unit",
+          "source_col": 1
+        },
+        {
+          "column_name": "Pcs/Unit",
+          "source_col": 2
+        },
+        {
+          "column_name": "Total Cost Per Unit",
+          "source_col": 3
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Budget_Summary",
+      "source_sheet": "BUDGET",
+      "columns": [
+        {
+          "column_name": "Metric",
+          "source_col": 0
+        },
+        {
+          "column_name": "Original",
+          "source_col": 1
+        },
+        {
+          "column_name": "Revised",
+          "source_col": 2
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "Store_List_Final",
+      "source_sheet": "STORE LIST FINAL",
+      "columns": [
+        {
+          "column_name": "Store #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 1
+        },
+        {
+          "column_name": "Count",
+          "source_col": 2
+        },
+        {
+          "column_name": "Var From Orig",
+          "source_col": 3
+        }
+      ],
+      "row_count": 1257
+    }
+  ]
+}

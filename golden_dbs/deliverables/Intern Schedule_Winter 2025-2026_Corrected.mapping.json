@@ -1,0 +1,39 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Schedule",
+      "source_sheet": "December, January, February, March, April",
+      "columns": [
+        {
+          "column_name": "Intern",
+          "source_col": 0
+        },
+        {
+          "column_name": "Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "Status",
+          "source_col": 2
+        }
+      ],
+      "row_count": 456
+    },
+    {
+      "table_name": "Time_Off_Requests",
+      "source_sheet": "Time off Requests",
+      "columns": [
+        {
+          "column_name": "Intern",
+          "source_col": 0
+        },
+        {
+          "column_name": "Request Details",
+          "source_col": 1
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

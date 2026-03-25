@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "IEHK_Pricing",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Article Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Module Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Unit Price (USD)",
+          "source_col": 2
+        },
+        {
+          "column_name": "Lead Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Shelf Life",
+          "source_col": 4
+        }
+      ],
+      "row_count": 8
+    }
+  ]
+}

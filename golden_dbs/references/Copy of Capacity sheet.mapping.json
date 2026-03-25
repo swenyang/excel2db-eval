@@ -1,0 +1,216 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "weld_demand",
+      "source_sheet": "Weld",
+      "columns": [
+        {
+          "column_name": "Demand Source",
+          "source_col": 0
+        },
+        {
+          "column_name": "Week 4",
+          "source_col": 1
+        },
+        {
+          "column_name": "Week 5",
+          "source_col": 2
+        },
+        {
+          "column_name": "Week 6",
+          "source_col": 3
+        },
+        {
+          "column_name": "Week 7",
+          "source_col": 4
+        },
+        {
+          "column_name": "Week 8",
+          "source_col": 5
+        },
+        {
+          "column_name": "Week 9",
+          "source_col": 6
+        },
+        {
+          "column_name": "Week 10",
+          "source_col": 7
+        },
+        {
+          "column_name": "Week 11",
+          "source_col": 8
+        },
+        {
+          "column_name": "Week 12",
+          "source_col": 9
+        },
+        {
+          "column_name": "Week 13",
+          "source_col": 10
+        },
+        {
+          "column_name": "Week 14",
+          "source_col": 11
+        },
+        {
+          "column_name": "Week 15",
+          "source_col": 12
+        },
+        {
+          "column_name": "Week 16",
+          "source_col": 13
+        },
+        {
+          "column_name": "Week 17",
+          "source_col": 14
+        },
+        {
+          "column_name": "Week 18",
+          "source_col": 15
+        },
+        {
+          "column_name": "Week 19",
+          "source_col": 16
+        },
+        {
+          "column_name": "Week 20",
+          "source_col": 17
+        },
+        {
+          "column_name": "Week 21",
+          "source_col": 18
+        },
+        {
+          "column_name": "Week 22",
+          "source_col": 19
+        },
+        {
+          "column_name": "Week 23",
+          "source_col": 20
+        },
+        {
+          "column_name": "Week 24",
+          "source_col": 21
+        },
+        {
+          "column_name": "Week 25",
+          "source_col": 22
+        },
+        {
+          "column_name": "Week 26",
+          "source_col": 23
+        },
+        {
+          "column_name": "Week 27",
+          "source_col": 24
+        },
+        {
+          "column_name": "Week 28",
+          "source_col": 25
+        },
+        {
+          "column_name": "Week 29",
+          "source_col": 26
+        },
+        {
+          "column_name": "Week 30",
+          "source_col": 27
+        },
+        {
+          "column_name": "Week 31",
+          "source_col": 28
+        },
+        {
+          "column_name": "Week 32",
+          "source_col": 29
+        },
+        {
+          "column_name": "Week 33",
+          "source_col": 30
+        },
+        {
+          "column_name": "Week 34",
+          "source_col": 31
+        },
+        {
+          "column_name": "Week 35",
+          "source_col": 32
+        },
+        {
+          "column_name": "Week 36",
+          "source_col": 33
+        },
+        {
+          "column_name": "Week 37",
+          "source_col": 34
+        },
+        {
+          "column_name": "Week 38",
+          "source_col": 35
+        },
+        {
+          "column_name": "Week 39",
+          "source_col": 36
+        },
+        {
+          "column_name": "Week 40",
+          "source_col": 37
+        },
+        {
+          "column_name": "Week 41",
+          "source_col": 38
+        },
+        {
+          "column_name": "Week 42",
+          "source_col": 39
+        },
+        {
+          "column_name": "Week 43",
+          "source_col": 40
+        },
+        {
+          "column_name": "Week 44",
+          "source_col": 41
+        },
+        {
+          "column_name": "Week 45",
+          "source_col": 42
+        },
+        {
+          "column_name": "Week 46",
+          "source_col": 43
+        },
+        {
+          "column_name": "Week 47",
+          "source_col": 44
+        },
+        {
+          "column_name": "Week 48",
+          "source_col": 45
+        },
+        {
+          "column_name": "Week 49",
+          "source_col": 46
+        },
+        {
+          "column_name": "Week 50",
+          "source_col": 47
+        },
+        {
+          "column_name": "Week 51",
+          "source_col": 48
+        },
+        {
+          "column_name": "Week 52",
+          "source_col": 49
+        },
+        {
+          "column_name": "Total",
+          "source_col": 50
+        }
+      ],
+      "row_count": 7
+    }
+  ]
+}

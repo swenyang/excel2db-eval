@@ -1,0 +1,113 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "April_2025_Payroll",
+      "source_sheet": "April 2025",
+      "columns": [
+        {
+          "column_name": "Acct Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 1
+        },
+        {
+          "column_name": "4-4-25 Dr Cr",
+          "source_col": 2
+        },
+        {
+          "column_name": "4-18-25 Dr Cr",
+          "source_col": 3
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 4
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_name": "April_2025_Accruals",
+      "source_sheet": "April 2025",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 2
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "March_2025_Payroll",
+      "source_sheet": "March 2025",
+      "columns": [
+        {
+          "column_name": "Acct Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 1
+        },
+        {
+          "column_name": "3-7-25 Dr Cr",
+          "source_col": 2
+        },
+        {
+          "column_name": "3-14-25 Dr Cr",
+          "source_col": 3
+        },
+        {
+          "column_name": "Bonus Accrual Reverse 12/31",
+          "source_col": 4
+        },
+        {
+          "column_name": "3-21-25 Dr Cr",
+          "source_col": 5
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 6
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_name": "March_2025_Accruals",
+      "source_sheet": "March 2025",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 2
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    }
+  ]
+}

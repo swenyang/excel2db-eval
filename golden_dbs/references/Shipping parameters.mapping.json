@@ -1,0 +1,28 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Shipping_Methods",
+      "source_sheet": "Shipping Methods",
+      "columns": [
+        {
+          "column_name": "Weight_Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Carrier",
+          "source_col": 1
+        },
+        {
+          "column_name": "Shipment_Cost",
+          "source_col": 2
+        },
+        {
+          "column_name": "Industry_Avg_Cost",
+          "source_col": 3
+        }
+      ],
+      "row_count": 3
+    }
+  ]
+}

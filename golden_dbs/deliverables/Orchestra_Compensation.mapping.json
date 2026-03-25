@@ -1,0 +1,581 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Summary_Parameters",
+      "source_sheet": "Summary",
+      "columns": [
+        {
+          "column_name": "Parameter",
+          "source_col": 0
+        },
+        {
+          "column_name": "Current",
+          "source_col": 1
+        },
+        {
+          "column_name": "Year_Plus_1",
+          "source_col": 2
+        },
+        {
+          "column_name": "Year_Plus_2",
+          "source_col": 3
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_name": "Summary_Compensation_Quarterly",
+      "source_sheet": "Summary",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Current_Q1",
+          "source_col": 1
+        },
+        {
+          "column_name": "Current_Q2",
+          "source_col": 2
+        },
+        {
+          "column_name": "Current_Q3",
+          "source_col": 3
+        },
+        {
+          "column_name": "Current_Q4",
+          "source_col": 4
+        },
+        {
+          "column_name": "Year1_Q1",
+          "source_col": 5
+        },
+        {
+          "column_name": "Year1_Q2",
+          "source_col": 6
+        },
+        {
+          "column_name": "Year1_Q3",
+          "source_col": 7
+        },
+        {
+          "column_name": "Year1_Q4",
+          "source_col": 8
+        },
+        {
+          "column_name": "Year2_Q1",
+          "source_col": 9
+        },
+        {
+          "column_name": "Year2_Q2",
+          "source_col": 10
+        },
+        {
+          "column_name": "Year2_Q3",
+          "source_col": 11
+        },
+        {
+          "column_name": "Year2_Q4",
+          "source_col": 12
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "Assumptions_Seniority_Pay",
+      "source_sheet": "Assumptions",
+      "columns": [
+        {
+          "column_name": "Years_Range",
+          "source_col": 0
+        },
+        {
+          "column_name": "Weekly_Amount",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "Roster",
+      "source_sheet": "Roster",
+      "columns": [
+        {
+          "column_name": "Employee_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Titled_Positions",
+          "source_col": 1
+        },
+        {
+          "column_name": "Overscale",
+          "source_col": 2
+        },
+        {
+          "column_name": "Years_of_Service",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        }
+      ],
+      "row_count": 103
+    },
+    {
+      "table_name": "Calculations_Separator",
+      "source_sheet": "Calculations --->",
+      "columns": [
+        {
+          "column_name": "placeholder",
+          "source_col": 0
+        }
+      ],
+      "row_count": 0
+    },
+    {
+      "table_name": "EE_Calcs_Current",
+      "source_sheet": "EE Calcs (Current)",
+      "columns": [
+        {
+          "column_name": "Employee_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Titled_Positions",
+          "source_col": 1
+        },
+        {
+          "column_name": "Overscale",
+          "source_col": 2
+        },
+        {
+          "column_name": "Years_of_Service",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        },
+        {
+          "column_name": "Principal_Premium",
+          "source_col": 5
+        },
+        {
+          "column_name": "Seniority_Weekly",
+          "source_col": 6
+        },
+        {
+          "column_name": "MWS_Q1",
+          "source_col": 7
+        },
+        {
+          "column_name": "MWS_Q2",
+          "source_col": 8
+        },
+        {
+          "column_name": "MWS_Q3",
+          "source_col": 9
+        },
+        {
+          "column_name": "MWS_Q4",
+          "source_col": 10
+        },
+        {
+          "column_name": "Overscale_Q1",
+          "source_col": 11
+        },
+        {
+          "column_name": "Overscale_Q2",
+          "source_col": 12
+        },
+        {
+          "column_name": "Overscale_Q3",
+          "source_col": 13
+        },
+        {
+          "column_name": "Overscale_Q4",
+          "source_col": 14
+        },
+        {
+          "column_name": "Principal_Pay_Q1",
+          "source_col": 15
+        },
+        {
+          "column_name": "Principal_Pay_Q2",
+          "source_col": 16
+        },
+        {
+          "column_name": "Principal_Pay_Q3",
+          "source_col": 17
+        },
+        {
+          "column_name": "Principal_Pay_Q4",
+          "source_col": 18
+        },
+        {
+          "column_name": "Media_Exploitation_Q1",
+          "source_col": 19
+        },
+        {
+          "column_name": "Media_Exploitation_Q2",
+          "source_col": 20
+        },
+        {
+          "column_name": "Media_Exploitation_Q3",
+          "source_col": 21
+        },
+        {
+          "column_name": "Media_Exploitation_Q4",
+          "source_col": 22
+        },
+        {
+          "column_name": "Seniority_Q1",
+          "source_col": 23
+        },
+        {
+          "column_name": "Seniority_Q2",
+          "source_col": 24
+        },
+        {
+          "column_name": "Seniority_Q3",
+          "source_col": 25
+        },
+        {
+          "column_name": "Seniority_Q4",
+          "source_col": 26
+        },
+        {
+          "column_name": "Subtotal_Q1",
+          "source_col": 27
+        },
+        {
+          "column_name": "Subtotal_Q2",
+          "source_col": 28
+        },
+        {
+          "column_name": "Subtotal_Q3",
+          "source_col": 29
+        },
+        {
+          "column_name": "Subtotal_Q4",
+          "source_col": 30
+        },
+        {
+          "column_name": "Payroll_Tax_Q1",
+          "source_col": 31
+        },
+        {
+          "column_name": "Payroll_Tax_Q2",
+          "source_col": 32
+        },
+        {
+          "column_name": "Payroll_Tax_Q3",
+          "source_col": 33
+        },
+        {
+          "column_name": "Payroll_Tax_Q4",
+          "source_col": 34
+        }
+      ],
+      "row_count": 103
+    },
+    {
+      "table_name": "EE_Calcs_Year_Plus_1",
+      "source_sheet": "EE Calcs (Yr+1)",
+      "columns": [
+        {
+          "column_name": "Employee_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Titled_Positions",
+          "source_col": 1
+        },
+        {
+          "column_name": "Overscale",
+          "source_col": 2
+        },
+        {
+          "column_name": "Years_of_Service",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        },
+        {
+          "column_name": "Principal_Premium",
+          "source_col": 5
+        },
+        {
+          "column_name": "Seniority_Weekly",
+          "source_col": 6
+        },
+        {
+          "column_name": "MWS_Q1",
+          "source_col": 7
+        },
+        {
+          "column_name": "MWS_Q2",
+          "source_col": 8
+        },
+        {
+          "column_name": "MWS_Q3",
+          "source_col": 9
+        },
+        {
+          "column_name": "MWS_Q4",
+          "source_col": 10
+        },
+        {
+          "column_name": "Overscale_Q1",
+          "source_col": 11
+        },
+        {
+          "column_name": "Overscale_Q2",
+          "source_col": 12
+        },
+        {
+          "column_name": "Overscale_Q3",
+          "source_col": 13
+        },
+        {
+          "column_name": "Overscale_Q4",
+          "source_col": 14
+        },
+        {
+          "column_name": "Principal_Pay_Q1",
+          "source_col": 15
+        },
+        {
+          "column_name": "Principal_Pay_Q2",
+          "source_col": 16
+        },
+        {
+          "column_name": "Principal_Pay_Q3",
+          "source_col": 17
+        },
+        {
+          "column_name": "Principal_Pay_Q4",
+          "source_col": 18
+        },
+        {
+          "column_name": "Media_Exploitation_Q1",
+          "source_col": 19
+        },
+        {
+          "column_name": "Media_Exploitation_Q2",
+          "source_col": 20
+        },
+        {
+          "column_name": "Media_Exploitation_Q3",
+          "source_col": 21
+        },
+        {
+          "column_name": "Media_Exploitation_Q4",
+          "source_col": 22
+        },
+        {
+          "column_name": "Seniority_Q1",
+          "source_col": 23
+        },
+        {
+          "column_name": "Seniority_Q2",
+          "source_col": 24
+        },
+        {
+          "column_name": "Seniority_Q3",
+          "source_col": 25
+        },
+        {
+          "column_name": "Seniority_Q4",
+          "source_col": 26
+        },
+        {
+          "column_name": "Subtotal_Q1",
+          "source_col": 27
+        },
+        {
+          "column_name": "Subtotal_Q2",
+          "source_col": 28
+        },
+        {
+          "column_name": "Subtotal_Q3",
+          "source_col": 29
+        },
+        {
+          "column_name": "Subtotal_Q4",
+          "source_col": 30
+        },
+        {
+          "column_name": "Payroll_Tax_Q1",
+          "source_col": 31
+        },
+        {
+          "column_name": "Payroll_Tax_Q2",
+          "source_col": 32
+        },
+        {
+          "column_name": "Payroll_Tax_Q3",
+          "source_col": 33
+        },
+        {
+          "column_name": "Payroll_Tax_Q4",
+          "source_col": 34
+        }
+      ],
+      "row_count": 103
+    },
+    {
+      "table_name": "EE_Calcs_Year_Plus_2",
+      "source_sheet": "EE Calcs (Yr+2)",
+      "columns": [
+        {
+          "column_name": "Employee_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Titled_Positions",
+          "source_col": 1
+        },
+        {
+          "column_name": "Overscale",
+          "source_col": 2
+        },
+        {
+          "column_name": "Years_of_Service",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        },
+        {
+          "column_name": "Principal_Premium",
+          "source_col": 5
+        },
+        {
+          "column_name": "Seniority_Weekly",
+          "source_col": 6
+        },
+        {
+          "column_name": "MWS_Q1",
+          "source_col": 7
+        },
+        {
+          "column_name": "MWS_Q2",
+          "source_col": 8
+        },
+        {
+          "column_name": "MWS_Q3",
+          "source_col": 9
+        },
+        {
+          "column_name": "MWS_Q4",
+          "source_col": 10
+        },
+        {
+          "column_name": "Overscale_Q1",
+          "source_col": 11
+        },
+        {
+          "column_name": "Overscale_Q2",
+          "source_col": 12
+        },
+        {
+          "column_name": "Overscale_Q3",
+          "source_col": 13
+        },
+        {
+          "column_name": "Overscale_Q4",
+          "source_col": 14
+        },
+        {
+          "column_name": "Principal_Pay_Q1",
+          "source_col": 15
+        },
+        {
+          "column_name": "Principal_Pay_Q2",
+          "source_col": 16
+        },
+        {
+          "column_name": "Principal_Pay_Q3",
+          "source_col": 17
+        },
+        {
+          "column_name": "Principal_Pay_Q4",
+          "source_col": 18
+        },
+        {
+          "column_name": "Media_Exploitation_Q1",
+          "source_col": 19
+        },
+        {
+          "column_name": "Media_Exploitation_Q2",
+          "source_col": 20
+        },
+        {
+          "column_name": "Media_Exploitation_Q3",
+          "source_col": 21
+        },
+        {
+          "column_name": "Media_Exploitation_Q4",
+          "source_col": 22
+        },
+        {
+          "column_name": "Seniority_Q1",
+          "source_col": 23
+        },
+        {
+          "column_name": "Seniority_Q2",
+          "source_col": 24
+        },
+        {
+          "column_name": "Seniority_Q3",
+          "source_col": 25
+        },
+        {
+          "column_name": "Seniority_Q4",
+          "source_col": 26
+        },
+        {
+          "column_name": "Subtotal_Q1",
+          "source_col": 27
+        },
+        {
+          "column_name": "Subtotal_Q2",
+          "source_col": 28
+        },
+        {
+          "column_name": "Subtotal_Q3",
+          "source_col": 29
+        },
+        {
+          "column_name": "Subtotal_Q4",
+          "source_col": 30
+        },
+        {
+          "column_name": "Payroll_Tax_Q1",
+          "source_col": 31
+        },
+        {
+          "column_name": "Payroll_Tax_Q2",
+          "source_col": 32
+        },
+        {
+          "column_name": "Payroll_Tax_Q3",
+          "source_col": 33
+        },
+        {
+          "column_name": "Payroll_Tax_Q4",
+          "source_col": 34
+        }
+      ],
+      "row_count": 103
+    }
+  ]
+}

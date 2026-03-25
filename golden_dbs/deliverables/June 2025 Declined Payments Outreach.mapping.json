@@ -1,0 +1,40 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Declined_Payments_Outreach",
+      "source_sheet": "June 2025 Declined Payments Out",
+      "columns": [
+        {
+          "column_name": "Date_of_Third_Decline",
+          "source_col": 0
+        },
+        {
+          "column_name": "Patient_Name_and_DOB",
+          "source_col": 1
+        },
+        {
+          "column_name": "Patient_Email",
+          "source_col": 2
+        },
+        {
+          "column_name": "Subscription_Type",
+          "source_col": 3
+        },
+        {
+          "column_name": "Email_Sent_Regarding_Third_Decline",
+          "source_col": 4
+        },
+        {
+          "column_name": "Has_Patient_Responded_to_Email",
+          "source_col": 5
+        },
+        {
+          "column_name": "Did_They_Need_to_Update_Payment_Method",
+          "source_col": 6
+        }
+      ],
+      "row_count": 2
+    }
+  ]
+}

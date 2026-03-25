@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "hardware_interface",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Hardware Type",
+          "source_col": 0
+        },
+        {
+          "column_name": "Make_Model",
+          "source_col": 1
+        },
+        {
+          "column_name": "Interface",
+          "source_col": 2
+        },
+        {
+          "column_name": "Compatibility Notes",
+          "source_col": 3
+        },
+        {
+          "column_name": "Estimated Cost USD",
+          "source_col": 4
+        }
+      ],
+      "row_count": 10
+    }
+  ]
+}

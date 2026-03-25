@@ -1,0 +1,124 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "test_plan",
+      "source_sheet": "One Week Test Plan",
+      "columns": [
+        {
+          "column_name": "Product",
+          "source_col": 0
+        },
+        {
+          "column_name": "FG Packs Needed",
+          "source_col": 1
+        },
+        {
+          "column_name": "Labor Minutes",
+          "source_col": 2
+        },
+        {
+          "column_name": "Yards (Wire)",
+          "source_col": 3
+        },
+        {
+          "column_name": "Pounds (Poly)",
+          "source_col": 4
+        },
+        {
+          "column_name": "Change over Time Minutes",
+          "source_col": 5
+        },
+        {
+          "column_name": "Press 1 Team Members Operator",
+          "source_col": 6
+        },
+        {
+          "column_name": "Press 1 Team Members Water Spider",
+          "source_col": 7
+        },
+        {
+          "column_name": "Press 2 Team Members Operator",
+          "source_col": 8
+        },
+        {
+          "column_name": "Press 2 Team Members Water Spider",
+          "source_col": 9
+        },
+        {
+          "column_name": "Press Number",
+          "source_col": 10
+        }
+      ],
+      "row_count": 42
+    },
+    {
+      "table_name": "team_member_labor",
+      "source_sheet": "One Week Test Plan",
+      "columns": [
+        {
+          "column_name": "Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Total Minutes",
+          "source_col": 1
+        },
+        {
+          "column_name": "Position",
+          "source_col": 2
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "material_required",
+      "source_sheet": "One Week Test Plan",
+      "columns": [
+        {
+          "column_name": "Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "press_schedule",
+      "source_sheet": "One Week Test Plan",
+      "columns": [
+        {
+          "column_name": "Days",
+          "source_col": 0
+        },
+        {
+          "column_name": "Press 1",
+          "source_col": 1
+        },
+        {
+          "column_name": "Press 2",
+          "source_col": 2
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_name": "test_rules",
+      "source_sheet": "Test Rules",
+      "columns": [
+        {
+          "column_name": "Rule Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Rule",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    }
+  ]
+}

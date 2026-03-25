@@ -1,0 +1,83 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "ira_rmd_withdrawals",
+      "source_sheet": "401k To IRA RMD Withdrawals",
+      "columns": [
+        {
+          "column_name": "Year",
+          "source_col": 0
+        },
+        {
+          "column_name": "Period",
+          "source_col": 1
+        },
+        {
+          "column_name": "Age",
+          "source_col": 2
+        },
+        {
+          "column_name": "Yield",
+          "source_col": 3
+        },
+        {
+          "column_name": "IRA_RMD_Starting_Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "RMD_Factor",
+          "source_col": 5
+        },
+        {
+          "column_name": "RMD_Withdrawal",
+          "source_col": 6
+        },
+        {
+          "column_name": "Tax_on_RMD_35pct",
+          "source_col": 7
+        }
+      ],
+      "row_count": 30
+    },
+    {
+      "table_name": "roth_conversion_strategy",
+      "source_sheet": "Roth Conversion Strategy ",
+      "columns": [
+        {
+          "column_name": "Year",
+          "source_col": 0
+        },
+        {
+          "column_name": "Period",
+          "source_col": 1
+        },
+        {
+          "column_name": "Age",
+          "source_col": 2
+        },
+        {
+          "column_name": "Yield",
+          "source_col": 3
+        },
+        {
+          "column_name": "IRA_Account_Starting_Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Annual_Roth_Conversion_Amount",
+          "source_col": 5
+        },
+        {
+          "column_name": "Taxes_Paid_on_Conversion_35pct",
+          "source_col": 6
+        },
+        {
+          "column_name": "Roth_IRA_Account_Balance",
+          "source_col": 7
+        }
+      ],
+      "row_count": 30
+    }
+  ]
+}

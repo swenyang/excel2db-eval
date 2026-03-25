@@ -1,0 +1,99 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "correlation_matrix",
+      "source_sheet": "Correlation Table",
+      "columns": [
+        {
+          "column_name": "Index Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "MSCI EM (Emerging Markets) Index",
+          "source_col": 1
+        },
+        {
+          "column_name": "MSCI ACWI IMI Index",
+          "source_col": 2
+        },
+        {
+          "column_name": "MSCI World Index",
+          "source_col": 3
+        },
+        {
+          "column_name": "MSCI EM (Emerging Markets) ex China Index",
+          "source_col": 4
+        },
+        {
+          "column_name": "MSCI EAFE Index",
+          "source_col": 5
+        },
+        {
+          "column_name": "MSCI China Index",
+          "source_col": 6
+        },
+        {
+          "column_name": "MSCI India Index",
+          "source_col": 7
+        },
+        {
+          "column_name": "MSCI EM Latin America Index",
+          "source_col": 8
+        },
+        {
+          "column_name": "MSCI AC Asia Pacific ex Japan Index",
+          "source_col": 9
+        }
+      ],
+      "row_count": 9
+    },
+    {
+      "table_name": "performance_data",
+      "source_sheet": "Performance Data",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "MSCI EM (Emerging Markets) Index",
+          "source_col": 1
+        },
+        {
+          "column_name": "MSCI ACWI IMI Index",
+          "source_col": 2
+        },
+        {
+          "column_name": "MSCI World Index",
+          "source_col": 3
+        },
+        {
+          "column_name": "MSCI EM (Emerging Markets) ex China Index",
+          "source_col": 4
+        },
+        {
+          "column_name": "MSCI EAFE Index",
+          "source_col": 5
+        },
+        {
+          "column_name": "MSCI China Index",
+          "source_col": 6
+        },
+        {
+          "column_name": "MSCI India Index",
+          "source_col": 7
+        },
+        {
+          "column_name": "MSCI EM Latin America Index",
+          "source_col": 8
+        },
+        {
+          "column_name": "MSCI AC Asia Pacific ex Japan Index",
+          "source_col": 9
+        }
+      ],
+      "row_count": 12
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Table_of_Contents",
+      "source_sheet": "Table of Contents",
+      "columns": [
+        {
+          "column_name": "Tab #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 2
+        }
+      ],
+      "row_count": 17
+    },
+    {
+      "table_name": "Trial_Balance_3_31_25",
+      "source_sheet": "#3a) TB convert 3-31-25",
+      "columns": [
+        {
+          "column_name": "Div #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 1
+        },
+        {
+          "column_name": "Account Name",
+          "source_col": 2
+        },
+        {
+          "column_name": "MTD Amt",
+          "source_col": 3
+        },
+        {
+          "column_name": "YTD Amt",
+          "source_col": 4
+        },
+        {
+          "column_name": "Code",
+          "source_col": 5
+        }
+      ],
+      "row_count": 97
+    },
+    {
+      "table_name": "Cash_Availability_Status",
+      "source_sheet": "#4) Cash Availability Status",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        }
+      ],
+      "row_count": 13
+    },
+    {
+      "table_name": "Bank_Recon_Outstanding_Checks",
+      "source_sheet": "#5) Bank recon 3-31-25",
+      "columns": [
+        {
+          "column_name": "Check #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month Issued",
+          "source_col": 2
+        },
+        {
+          "column_name": "Payee",
+          "source_col": 3
+        }
+      ],
+      "row_count": 10
+    },
+    {
+      "table_name": "Funding_Sources",
+      "source_sheet": "#6) Aurisic Funding Sources",
+      "columns": [
+        {
+          "column_name": "Subsidiary",
+          "source_col": 0
+        },
+        {
+          "column_name": "Monthly Budget",
+          "source_col": 1
+        },
+        {
+          "column_name": "Annual Budget",
+          "source_col": 2
+        },
+        {
+          "column_name": "YTD Actual 3-31-2025",
+          "source_col": 3
+        },
+        {
+          "column_name": "Avg Month",
+          "source_col": 4
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 5
+        }
+      ],
+      "row_count": 7
+    },
+    {
+      "table_name": "Funding_Income_Items",
+      "source_sheet": "#6) Aurisic Funding Sources",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Monthly Budget",
+          "source_col": 1
+        },
+        {
+          "column_name": "Annual Budget",
+          "source_col": 2
+        },
+        {
+          "column_name": "YTD Actual 3-31-2025",
+          "source_col": 3
+        },
+        {
+          "column_name": "Avg Month",
+          "source_col": 4
+        }
+      ],
+      "row_count": 2
+    },
+    {
+      "table_name": "Prof_Fees_Accrual_2404",
+      "source_sheet": "#9) Prof Fees Accrual #2404",
+      "columns": [
+        {
+          "column_name": "Cono",
+          "source_col": 0
+        },
+        {
+          "column_name": "Division",
+          "source_col": 1
+        },
+        {
+          "column_name": "PostDate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Period",
+          "source_col": 3
+        },
+        {
+          "column_name": "Apinvno",
+          "source_col": 4
+        },
+        {
+          "column_name": "Invno",
+          "source_col": 5
+        },
+        {
+          "column_name": "Invsuf",
+          "source_col": 6
+        },
+        {
+          "column_name": "Custno",
+          "source_col": 7
+        },
+        {
+          "column_name": "CustName",
+          "source_col": 8
+        },
+        {
+          "column_name": "Vendno",
+          "source_col": 9
+        },
+        {
+          "column_name": "VendName",
+          "source_col": 10
+        },
+        {
+          "column_name": "Jrnlno",
+          "source_col": 11
+        },
+        {
+          "column_name": "Setno",
+          "source_col": 12
+        },
+        {
+          "column_name": "Checkno",
+          "source_col": 13
+        },
+        {
+          "column_name": "CurrProc",
+          "source_col": 14
+        },
+        {
+          "column_name": "GLAcctno",
+          "source_col": 15
+        },
+        {
+          "column_name": "Gltitle",
+          "source_col": 16
+        },
+        {
+          "column_name": "GLDeptno",
+          "source_col": 17
+        },
+        {
+          "column_name": "Refer",
+          "source_col": 18
+        },
+        {
+          "column_name": "Disputefl",
+          "source_col": 19
+        },
+        {
+          "column_name": "ExchRate",
+          "source_col": 20
+        },
+        {
+          "column_name": "Debit",
+          "source_col": 21
+        },
+        {
+          "column_name": "Credit",
+          "source_col": 22
+        }
+      ],
+      "row_count": 4
+    },
+    {
+      "table_name": "Legal_Audit_Expense_6200",
+      "source_sheet": "#10) Legal Audit Expense #6200",
+      "columns": [
+        {
+          "column_name": "Cono",
+          "source_col": 0
+        },
+        {
+          "column_name": "Division",
+          "source_col": 1
+        },
+        {
+          "column_name": "PostDate",
+          "source_col": 2
+        },
+        {
+          "column_name": "Period",
+          "source_col": 3
+        },
+        {
+          "column_name": "Apinvno",
+          "source_col": 4
+        },
+        {
+          "column_name": "Invno",
+          "source_col": 5
+        },
+        {
+          "column_name": "Invsuf",
+          "source_col": 6
+        },
+        {
+          "column_name": "Custno",
+          "source_col": 7
+        },
+        {
+          "column_name": "CustName",
+          "source_col": 8
+        },
+        {
+          "column_name": "Vendno",
+          "source_col": 9
+        },
+        {
+          "column_name": "VendName",
+          "source_col": 10
+        },
+        {
+          "column_name": "Jrnlno",
+          "source_col": 11
+        },
+        {
+          "column_name": "Setno",
+          "source_col": 12
+        },
+        {
+          "column_name": "Checkno",
+          "source_col": 13
+        },
+        {
+          "column_name": "CurrProc",
+          "source_col": 14
+        },
+        {
+          "column_name": "GLAcctno",
+          "source_col": 15
+        },
+        {
+          "column_name": "Gltitle",
+          "source_col": 16
+        },
+        {
+          "column_name": "GLDeptno",
+          "source_col": 17
+        },
+        {
+          "column_name": "Refer",
+          "source_col": 18
+        },
+        {
+          "column_name": "Disputefl",
+          "source_col": 19
+        },
+        {
+          "column_name": "ExchRate",
+          "source_col": 20
+        },
+        {
+          "column_name": "Debit",
+          "source_col": 21
+        },
+        {
+          "column_name": "Credit",
+          "source_col": 22
+        }
+      ],
+      "row_count": 44
+    },
+    {
+      "table_name": "Interest_Accrual_I",
+      "source_sheet": "#11a) Interest Accrual I",
+      "columns": [
+        {
+          "column_name": "Actual SOFR 3Mo",
+          "source_col": 0
+        },
+        {
+          "column_name": "Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "Principal Transaction",
+          "source_col": 2
+        },
+        {
+          "column_name": "Interest Rate SOFR 3Mo",
+          "source_col": 3
+        },
+        {
+          "column_name": "Interest Transaction",
+          "source_col": 4
+        },
+        {
+          "column_name": "Running Interest Balance",
+          "source_col": 5
+        },
+        {
+          "column_name": "Running Principal Balance",
+          "source_col": 6
+        },
+        {
+          "column_name": "Total Balance",
+          "source_col": 7
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 8
+        }
+      ],
+      "row_count": 62
+    },
+    {
+      "table_name": "Interest_Accrual_II",
+      "source_sheet": "#11b) Interest Accrual II",
+      "columns": [
+        {
+          "column_name": "Fixed Rate",
+          "source_col": 0
+        },
+        {
+          "column_name": "Date",
+          "source_col": 1
+        },
+        {
+          "column_name": "Principal Transaction",
+          "source_col": 2
+        },
+        {
+          "column_name": "Interest Rate",
+          "source_col": 3
+        },
+        {
+          "column_name": "Interest Transaction",
+          "source_col": 4
+        },
+        {
+          "column_name": "Running Interest Balance",
+          "source_col": 5
+        },
+        {
+          "column_name": "Running Principal Balance",
+          "source_col": 6
+        },
+        {
+          "column_name": "Total Balance",
+          "source_col": 7
+        }
+      ],
+      "row_count": 12
+    },
+    {
+      "table_name": "AP_Trade_2000",
+      "source_sheet": "#12) AP Trade #2000",
+      "columns": [
+        {
+          "column_name": "Vendor #",
+          "source_col": 0
+        },
+        {
+          "column_name": "Vendor Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "AP Balance",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "AR_Accruals_1101",
+      "source_sheet": "#13) AR Accruals #1101",
+      "columns": [
+        {
+          "column_name": "Description",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "Payroll_Accrual_2200_March",
+      "source_sheet": "#14) Payroll Accrual #2200",
+      "columns": [
+        {
+          "column_name": "Acct Name",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 1
+        },
+        {
+          "column_name": "3-7-25 Dr Cr",
+          "source_col": 2
+        },
+        {
+          "column_name": "3-14-25 Dr Cr",
+          "source_col": 3
+        },
+        {
+          "column_name": "Bonus Accrual Reverse 12/31",
+          "source_col": 4
+        },
+        {
+          "column_name": "3-21-25 Dr Cr",
+          "source_col": 5
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 6
+        }
+      ],
+      "row_count": 16
+    },
+    {
+      "table_name": "Payroll_Accrual_2200_March_Accruals",
+      "source_sheet": "#14) Payroll Accrual #2200",
+      "columns": [
+        {
+          "column_name": "Section",
+          "source_col": 0
+        },
+        {
+          "column_name": "Acct Name",
+          "source_col": 1
+        },
+        {
+          "column_name": "Acct #",
+          "source_col": 2
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 3
+        }
+      ],
+      "row_count": 6
+    },
+    {
+      "table_name": "Vendor_Rebates_2005",
+      "source_sheet": "#15) Vendor Rebates #2005",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Amount",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date Rec",
+          "source_col": 2
+        }
+      ],
+      "row_count": 3
+    },
+    {
+      "table_name": "PPD_Exps_1250_Monthly",
+      "source_sheet": "#7) PPD Exps #1250 (2025)",
+      "columns": [
+        {
+          "column_name": "Vendor",
+          "source_col": 0
+        },
+        {
+          "column_name": "Month",
+          "source_col": 1
+        },
+        {
+          "column_name": "Debit Adds",
+          "source_col": 2
+        },
+        {
+          "column_name": "Credit WOs",
+          "source_col": 3
+        },
+        {
+          "column_name": "End Balance",
+          "source_col": 4
+        },
+        {
+          "column_name": "Period",
+          "source_col": 5
+        },
+        {
+          "column_name": "Description",
+          "source_col": 6
+        }
+      ],
+      "row_count": 216
+    },
+    {
+      "table_name": "PPD_Ins_1251_Monthly",
+      "source_sheet": "#8) PPD Ins #1251 (2025)",
+      "columns": [
+        {
+          "column_name": "Date",
+          "source_col": 0
+        },
+        {
+          "column_name": "Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Month",
+          "source_col": 2
+        },
+        {
+          "column_name": "Debit Adds",
+          "source_col": 3
+        },
+        {
+          "column_name": "Credit WOs",
+          "source_col": 4
+        },
+        {
+          "column_name": "End Balance",
+          "source_col": 5
+        },
+        {
+          "column_name": "Period",
+          "source_col": 6
+        }
+      ],
+      "row_count": 175
+    }
+  ]
+}

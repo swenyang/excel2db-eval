@@ -1,0 +1,72 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "set_sales_2023",
+      "source_sheet": "Set Sales 2023",
+      "columns": [
+        {
+          "column_name": "Axis",
+          "source_col": 0
+        },
+        {
+          "column_name": "Brand",
+          "source_col": 1
+        },
+        {
+          "column_name": "YTD Set Sales",
+          "source_col": 2
+        },
+        {
+          "column_name": "Prior Year YTD Set Sales",
+          "source_col": 3
+        },
+        {
+          "column_name": "Pct Change YTD Set Sales",
+          "source_col": 4
+        },
+        {
+          "column_name": "Q1 2023 Set Sales",
+          "source_col": 5
+        },
+        {
+          "column_name": "Q4 2022 Set Sales",
+          "source_col": 6
+        },
+        {
+          "column_name": "Q3 2022 Set Sales",
+          "source_col": 7
+        },
+        {
+          "column_name": "Total Expected Sales",
+          "source_col": 8
+        },
+        {
+          "column_name": "OH OO Amount",
+          "source_col": 9
+        },
+        {
+          "column_name": "Expected Shipments Oct 2023",
+          "source_col": 10
+        },
+        {
+          "column_name": "Expected Shipments Q1 2023",
+          "source_col": 11
+        },
+        {
+          "column_name": "Total OH OO vs Expected Sales",
+          "source_col": 12
+        },
+        {
+          "column_name": "Total OH OO Pct Expected Sales",
+          "source_col": 13
+        },
+        {
+          "column_name": "Comments",
+          "source_col": 14
+        }
+      ],
+      "row_count": 19
+    }
+  ]
+}

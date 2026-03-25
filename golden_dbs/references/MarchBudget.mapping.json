@@ -1,0 +1,20 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "March_Budget",
+      "source_sheet": "March Budget",
+      "columns": [
+        {
+          "column_name": "Project",
+          "source_col": 0
+        },
+        {
+          "column_name": "Budgeted_Total_Hours_March_2025",
+          "source_col": 1
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

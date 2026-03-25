@@ -1,0 +1,47 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Assumptions_Seniority_Pay",
+      "source_sheet": "Assumptions",
+      "columns": [
+        {
+          "column_name": "Years_Range",
+          "source_col": 0
+        },
+        {
+          "column_name": "Weekly_Amount",
+          "source_col": 1
+        }
+      ],
+      "row_count": 5
+    },
+    {
+      "table_name": "Roster",
+      "source_sheet": "Roster",
+      "columns": [
+        {
+          "column_name": "Employee_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Titled_Positions",
+          "source_col": 1
+        },
+        {
+          "column_name": "Overscale",
+          "source_col": 2
+        },
+        {
+          "column_name": "Years_of_Service",
+          "source_col": 3
+        },
+        {
+          "column_name": "Notes",
+          "source_col": 4
+        }
+      ],
+      "row_count": 103
+    }
+  ]
+}

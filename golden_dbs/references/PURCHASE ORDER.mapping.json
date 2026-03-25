@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Purchase_Order",
+      "source_sheet": "List",
+      "columns": [
+        {
+          "column_name": "Item",
+          "source_col": 0
+        },
+        {
+          "column_name": "SKU",
+          "source_col": 1
+        },
+        {
+          "column_name": "Pricing",
+          "source_col": 2
+        },
+        {
+          "column_name": "QTY",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total",
+          "source_col": 4
+        }
+      ],
+      "row_count": 20
+    }
+  ]
+}

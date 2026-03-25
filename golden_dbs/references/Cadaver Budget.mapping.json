@@ -1,0 +1,32 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "cadaver_budget",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Category",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item Line",
+          "source_col": 1
+        },
+        {
+          "column_name": "Count",
+          "source_col": 2
+        },
+        {
+          "column_name": "Cost per",
+          "source_col": 3
+        },
+        {
+          "column_name": "Total Cost",
+          "source_col": 4
+        }
+      ],
+      "row_count": 13
+    }
+  ]
+}

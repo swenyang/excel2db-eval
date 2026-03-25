@@ -1,0 +1,40 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "location_report",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Item Received",
+          "source_col": 0
+        },
+        {
+          "column_name": "Item Description",
+          "source_col": 1
+        },
+        {
+          "column_name": "Qty Received",
+          "source_col": 2
+        },
+        {
+          "column_name": "Moved From",
+          "source_col": 3
+        },
+        {
+          "column_name": "Moved To",
+          "source_col": 4
+        },
+        {
+          "column_name": "Qty Moved",
+          "source_col": 5
+        },
+        {
+          "column_name": "Balance",
+          "source_col": 6
+        }
+      ],
+      "row_count": 0
+    }
+  ]
+}

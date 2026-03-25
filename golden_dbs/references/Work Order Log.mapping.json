@@ -1,0 +1,36 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Work_Order_Log",
+      "source_sheet": "Sheet1",
+      "columns": [
+        {
+          "column_name": "Work_Order_ID",
+          "source_col": 0
+        },
+        {
+          "column_name": "Date_Created",
+          "source_col": 1
+        },
+        {
+          "column_name": "Date_Closed",
+          "source_col": 2
+        },
+        {
+          "column_name": "Category",
+          "source_col": 3
+        },
+        {
+          "column_name": "Time_to_Close_Hrs",
+          "source_col": 4
+        },
+        {
+          "column_name": "Status",
+          "source_col": 5
+        }
+      ],
+      "row_count": 16
+    }
+  ]
+}

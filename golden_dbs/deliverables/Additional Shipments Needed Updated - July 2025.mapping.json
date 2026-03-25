@@ -1,0 +1,60 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "Current_Inventory",
+      "source_sheet": "Current Inventory",
+      "columns": [
+        {
+          "column_name": "Product SKU",
+          "source_col": 0
+        },
+        {
+          "column_name": "In Stock (cases)",
+          "source_col": 1
+        },
+        {
+          "column_name": "Rate of Sale (cases/day)",
+          "source_col": 2
+        },
+        {
+          "column_name": "DOH",
+          "source_col": 3
+        },
+        {
+          "column_name": "OOS Date",
+          "source_col": 4
+        },
+        {
+          "column_name": "Delivery Date",
+          "source_col": 5
+        },
+        {
+          "column_name": "Number of Pallets",
+          "source_col": 6
+        },
+        {
+          "column_name": "Cases",
+          "source_col": 7
+        },
+        {
+          "column_name": "DDOH",
+          "source_col": 8
+        },
+        {
+          "column_name": "Total DOH",
+          "source_col": 9
+        },
+        {
+          "column_name": "GAP",
+          "source_col": 10
+        },
+        {
+          "column_name": "Cases Needed",
+          "source_col": 11
+        }
+      ],
+      "row_count": 10
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "quotation_items",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Article_Number",
+          "source_col": 0
+        },
+        {
+          "column_name": "Quantity",
+          "source_col": 1
+        },
+        {
+          "column_name": "Description",
+          "source_col": 2
+        },
+        {
+          "column_name": "Delivery_Time",
+          "source_col": 3
+        },
+        {
+          "column_name": "Shelf_Life",
+          "source_col": 4
+        },
+        {
+          "column_name": "Price_Ex_USD",
+          "source_col": 5
+        },
+        {
+          "column_name": "Total_USD",
+          "source_col": 6
+        }
+      ],
+      "row_count": 8
+    },
+    {
+      "table_name": "quotation_terms",
+      "source_sheet": "Blad1",
+      "columns": [
+        {
+          "column_name": "Term",
+          "source_col": 0
+        },
+        {
+          "column_name": "Value",
+          "source_col": 1
+        }
+      ],
+      "row_count": 9
+    }
+  ]
+}

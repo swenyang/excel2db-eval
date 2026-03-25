@@ -1,0 +1,48 @@
+{
+  "source_file": "",
+  "tables": [
+    {
+      "table_name": "UAT_Test_Plan",
+      "source_sheet": "UAT Test Plan",
+      "columns": [
+        {
+          "column_name": "Test_No",
+          "source_col": 0
+        },
+        {
+          "column_name": "Role",
+          "source_col": 1
+        },
+        {
+          "column_name": "Module",
+          "source_col": 2
+        },
+        {
+          "column_name": "Source_Event",
+          "source_col": 3
+        },
+        {
+          "column_name": "Test_Scenario",
+          "source_col": 4
+        },
+        {
+          "column_name": "Other_Conditions_Notes",
+          "source_col": 5
+        },
+        {
+          "column_name": "Expected_Result",
+          "source_col": 6
+        },
+        {
+          "column_name": "Actual_Result",
+          "source_col": 7
+        },
+        {
+          "column_name": "Tested_Date",
+          "source_col": 8
+        }
+      ],
+      "row_count": 0
+    }
+  ]
+}
